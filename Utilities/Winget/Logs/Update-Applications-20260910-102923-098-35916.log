@@ -1,0 +1,1260 @@
+2026-09-10 10:29:23.099 [INFO] [Start] Vollständige Logdatei: C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Logs\Update-Applications-20260910-102923-098-35916.log
+2026-09-10 10:29:23.104 [INFO] [Start] PowerShell 7.6.6; Betriebssystem: Microsoft Windows NT 10.0.26200.0; Prozessarchitektur: 64 Bit; Benutzer: BoettcherA
+2026-09-10 10:29:23.125 [INFO] [Start] Ziele: InstalledTools='C:\Tools'; PortableTools='D:\Tools'.
+2026-09-10 10:29:23.155 [INFO] [Start] winget: C:\Users\BoettcherA\AppData\Local\Microsoft\WindowsApps\winget.exe
+2026-09-10 10:29:23.186 [INFO] [Start] CheckOnly: Nur lesende Prüfungen. Keine Pakete, Zielordner, Konfigurationen, Backups, Sprachdownloads oder Pins; nur Logs/CSV.
+2026-09-10 10:29:23.211 [INFO] [Standard/Adobe.Acrobat.Reader.64-bit] Befehl: winget "list" "--id" "Adobe.Acrobat.Reader.64-bit" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:23.965 [INFO] [Standard/Adobe.Acrobat.Reader.64-bit] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:29:23.994 [INFO] [Standard/Adobe.Acrobat.Reader.64-bit] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:29:24.021 [INFO] [Standard/Canva.Affinity] Befehl: winget "list" "--id" "Canva.Affinity" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:24.915 [INFO] [Standard/Canva.Affinity] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:29:24.936 [INFO] [Standard/Canva.Affinity] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:29:24.963 [INFO] [Standard/Celsys.ClipStudioPaint] Befehl: winget "list" "--id" "Celsys.ClipStudioPaint" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:25.720 [INFO] [Standard/Celsys.ClipStudioPaint] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:29:25.750 [INFO] [Standard/Celsys.ClipStudioPaint] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:29:25.778 [INFO] [Standard/dotPDN.PaintDotNet] Befehl: winget "list" "--id" "dotPDN.PaintDotNet" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:26.567 [INFO] [Standard/dotPDN.PaintDotNet] Name      ID                 Version
+2026-09-10 10:29:26.579 [INFO] [Standard/dotPDN.PaintDotNet] ------------------------------------
+2026-09-10 10:29:26.607 [INFO] [Standard/dotPDN.PaintDotNet] Paint.NET dotPDN.PaintDotNet 5.1.12
+2026-09-10 10:29:26.636 [INFO] [Standard/dotPDN.PaintDotNet] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:26.668 [INFO] [Standard/dotPDN.PaintDotNet] Befehl: winget "show" "--id" "dotPDN.PaintDotNet" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:27.127 [INFO] [Standard/dotPDN.PaintDotNet] Gefunden paint.net [dotPDN.PaintDotNet]
+2026-09-10 10:29:27.154 [INFO] [Standard/dotPDN.PaintDotNet] Version: 5.1.12
+2026-09-10 10:29:27.187 [INFO] [Standard/dotPDN.PaintDotNet] Herausgeber: dotPDN LLC
+2026-09-10 10:29:27.217 [INFO] [Standard/dotPDN.PaintDotNet] Herausgeber-URL: https://dotpdn.com/
+2026-09-10 10:29:27.252 [INFO] [Standard/dotPDN.PaintDotNet] Herausgeber-Support-URL: https://getpaint.net/contact.html
+2026-09-10 10:29:27.284 [INFO] [Standard/dotPDN.PaintDotNet] Autor: Rick Brewster
+2026-09-10 10:29:27.321 [INFO] [Standard/dotPDN.PaintDotNet] Moniker: paint.net
+2026-09-10 10:29:27.357 [INFO] [Standard/dotPDN.PaintDotNet] Beschreibung: Paint.NET is an image and photo editing software for PCs that run Windows. It features an intuitive and innovative user interface with support for layers, unlimited undo, special effects, and a wide variety of useful and powerful tools. An active and growing online community provides friendly help, tutorials, and plugins.
+2026-09-10 10:29:27.392 [INFO] [Standard/dotPDN.PaintDotNet] Startseite: https://getpaint.net/
+2026-09-10 10:29:27.429 [INFO] [Standard/dotPDN.PaintDotNet] Lizenz: Proprietary (Freeware)
+2026-09-10 10:29:27.467 [INFO] [Standard/dotPDN.PaintDotNet] Lizenz-URL: https://getpaint.net/license.html
+2026-09-10 10:29:27.506 [INFO] [Standard/dotPDN.PaintDotNet] Datenschutz-URL: https://getpaint.net/privacy.html
+2026-09-10 10:29:27.545 [INFO] [Standard/dotPDN.PaintDotNet] Copyright: ┬® 2026 dotPDN LLC, Rick Brewster, and contributors. All Rights Reserved.
+2026-09-10 10:29:27.582 [INFO] [Standard/dotPDN.PaintDotNet] Versionshinweise:
+2026-09-10 10:29:27.619 [INFO] [Standard/dotPDN.PaintDotNet]   This is a small update that adds a new translation (Kazakh) and updates the bundled DDS and JPEG XL FileType plugins to their latest versions.
+2026-09-10 10:29:27.659 [INFO] [Standard/dotPDN.PaintDotNet]   ÔÇó Fixed the DxgiAdapterService not implementing IDxgiAdapterService2 due to a bad merge conflict
+2026-09-10 10:29:27.692 [INFO] [Standard/dotPDN.PaintDotNet] URL der Versionshinweise: https://getpaint.net/roadmap.html
+2026-09-10 10:29:27.732 [INFO] [Standard/dotPDN.PaintDotNet] Dokumentation:
+2026-09-10 10:29:27.767 [INFO] [Standard/dotPDN.PaintDotNet]   Documentation: https://getpaint.net/doc/latest/index.html
+2026-09-10 10:29:27.801 [INFO] [Standard/dotPDN.PaintDotNet] Markierungen:
+2026-09-10 10:29:27.836 [INFO] [Standard/dotPDN.PaintDotNet]   image-editor
+2026-09-10 10:29:27.876 [INFO] [Standard/dotPDN.PaintDotNet]   imageeditor
+2026-09-10 10:29:27.904 [INFO] [Standard/dotPDN.PaintDotNet]   images
+2026-09-10 10:29:27.936 [INFO] [Standard/dotPDN.PaintDotNet]   paint-dot-net
+2026-09-10 10:29:27.972 [INFO] [Standard/dotPDN.PaintDotNet]   paint-net
+2026-09-10 10:29:28.000 [INFO] [Standard/dotPDN.PaintDotNet]   paintnet
+2026-09-10 10:29:28.038 [INFO] [Standard/dotPDN.PaintDotNet]   painting
+2026-09-10 10:29:28.074 [INFO] [Standard/dotPDN.PaintDotNet]   photos
+2026-09-10 10:29:28.109 [INFO] [Standard/dotPDN.PaintDotNet]   photo-editing
+2026-09-10 10:29:28.144 [INFO] [Standard/dotPDN.PaintDotNet]   photoediting
+2026-09-10 10:29:28.182 [INFO] [Standard/dotPDN.PaintDotNet]   pictures
+2026-09-10 10:29:28.218 [INFO] [Standard/dotPDN.PaintDotNet]   9nbhcs1lx4r0
+2026-09-10 10:29:28.258 [INFO] [Standard/dotPDN.PaintDotNet] Installationsprogramm:
+2026-09-10 10:29:28.293 [INFO] [Standard/dotPDN.PaintDotNet]   Installertyp: wix (zip)
+2026-09-10 10:29:28.331 [INFO] [Standard/dotPDN.PaintDotNet]   Installer-URL: https://github.com/paintdotnet/release/releases/download/v5.1.12/paint.net.5.1.12.winmsi.x64.zip
+2026-09-10 10:29:28.368 [INFO] [Standard/dotPDN.PaintDotNet]   Sha256-Installer: 06b19498e02ad5bf24ef1aa19f9d9021c92fe7abeec04e18aef4140eddb366e3
+2026-09-10 10:29:28.403 [INFO] [Standard/dotPDN.PaintDotNet]   Freigabedatum: 2026-03-08
+2026-09-10 10:29:28.441 [INFO] [Standard/dotPDN.PaintDotNet]   Unterst├╝tzte Offlineverteilung: true
+2026-09-10 10:29:28.475 [INFO] [Standard/dotPDN.PaintDotNet] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:28.512 [INFO] [Standard/EPSON.EpsonScan2] Befehl: winget "list" "--id" "EPSON.EpsonScan2" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:29.373 [INFO] [Standard/EPSON.EpsonScan2] Name         ID               Version Verf├╝gbar
+2026-09-10 10:29:29.399 [INFO] [Standard/EPSON.EpsonScan2] -----------------------------------------------
+2026-09-10 10:29:29.411 [INFO] [Standard/EPSON.EpsonScan2] Epson Scan 2 EPSON.EpsonScan2 Unknown 6.7.81.0
+2026-09-10 10:29:29.444 [INFO] [Standard/EPSON.EpsonScan2] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:29.481 [ERROR] [Standard/EPSON.EpsonScan2] Verarbeitung von 'Epson Scan 2' in Phase 'Discovery' fehlgeschlagen: Unbekannte/mehrdeutige Version oder unerwartete winget-Tabellenspalten für 'EPSON.EpsonScan2'.
+2026-09-10 10:29:29.513 [ERROR] [Standard/EPSON.EpsonScan2] Typ: System.Management.Automation.RuntimeException; Fehler-ID: Unbekannte/mehrdeutige Version oder unerwartete winget-Tabellenspalten für 'EPSON.EpsonScan2'.; Kategorie: OperationStopped: (Unbekannte/mehrdeut…'EPSON.EpsonScan2'.:String) [], RuntimeException; Ausnahme: System.Management.Automation.RuntimeException: Unbekannte/mehrdeutige Version oder unerwartete winget-Tabellenspalten für 'EPSON.EpsonScan2'.
+2026-09-10 10:29:29.543 [ERROR] [Standard/EPSON.EpsonScan2] Position: Bei C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1:307 Zeichen:21
++ …             throw "Unbekannte/mehrdeutige Version oder unerwartete wi …
++               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stack: bei Get-InstalledApplicationState, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 307
+bei Get-ApplicationPlan, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1114
+bei Invoke-ApplicationGroups, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1356
+bei Invoke-Installation, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1413
+bei Start-ApplicationRun, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 524
+bei <ScriptBlock>, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Update-Applications.ps1: Zeile 41
+bei <ScriptBlock>, <No file>: Zeile 1
+2026-09-10 10:29:29.578 [INFO] [Standard/EPSON.SoftwareUpdater] Befehl: winget "list" "--id" "EPSON.SoftwareUpdater" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:30.392 [INFO] [Standard/EPSON.SoftwareUpdater] Name                   ID                    Version
+2026-09-10 10:29:30.395 [INFO] [Standard/EPSON.SoftwareUpdater] ----------------------------------------------------
+2026-09-10 10:29:30.447 [INFO] [Standard/EPSON.SoftwareUpdater] Epson Software Updater EPSON.SoftwareUpdater 5.0.1
+2026-09-10 10:29:30.504 [INFO] [Standard/EPSON.SoftwareUpdater] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:30.562 [INFO] [Standard/EPSON.SoftwareUpdater] Befehl: winget "show" "--id" "EPSON.SoftwareUpdater" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:30.969 [INFO] [Standard/EPSON.SoftwareUpdater] Gefunden Epson Software Updater [EPSON.SoftwareUpdater]
+2026-09-10 10:29:31.024 [INFO] [Standard/EPSON.SoftwareUpdater] Version: 5.0.1.0
+2026-09-10 10:29:31.058 [INFO] [Standard/EPSON.SoftwareUpdater] Herausgeber: Seiko Epson Corporation
+2026-09-10 10:29:31.092 [INFO] [Standard/EPSON.SoftwareUpdater] Beschreibung: A tool that enables you to automatically search for any new software applications or available updates to your Epson product's firmware, software versions or user guides.
+2026-09-10 10:29:31.104 [INFO] [Standard/EPSON.SoftwareUpdater] Startseite: https://www.epson.eu/en_EU/faq/KA-01049/contents
+2026-09-10 10:29:31.134 [INFO] [Standard/EPSON.SoftwareUpdater] Lizenz: Proprietary (Freeware)
+2026-09-10 10:29:31.145 [INFO] [Standard/EPSON.SoftwareUpdater] Markierungen:
+2026-09-10 10:29:31.177 [INFO] [Standard/EPSON.SoftwareUpdater]   epson-software-updater
+2026-09-10 10:29:31.210 [INFO] [Standard/EPSON.SoftwareUpdater]   epsonsoftwareupdater
+2026-09-10 10:29:31.245 [INFO] [Standard/EPSON.SoftwareUpdater]   cesu
+2026-09-10 10:29:31.280 [INFO] [Standard/EPSON.SoftwareUpdater]   epson-printers
+2026-09-10 10:29:31.320 [INFO] [Standard/EPSON.SoftwareUpdater]   epsonprinters
+2026-09-10 10:29:31.359 [INFO] [Standard/EPSON.SoftwareUpdater]   epsonscanners
+2026-09-10 10:29:31.394 [INFO] [Standard/EPSON.SoftwareUpdater]   epson-devices
+2026-09-10 10:29:31.429 [INFO] [Standard/EPSON.SoftwareUpdater] Installationsprogramm:
+2026-09-10 10:29:31.467 [INFO] [Standard/EPSON.SoftwareUpdater]   Installertyp: msi (zip)
+2026-09-10 10:29:31.506 [INFO] [Standard/EPSON.SoftwareUpdater]   Installer-URL: https://download-center.epson.com/f/module/10735d1a-5759-44f0-a54a-01b7cd938e82/CESU5010_22.exe
+2026-09-10 10:29:31.541 [INFO] [Standard/EPSON.SoftwareUpdater]   Sha256-Installer: af0f7a8aae4880a27ae833eefe865252f57d21dd6659e8498eeabccf7710237f
+2026-09-10 10:29:31.580 [INFO] [Standard/EPSON.SoftwareUpdater]   Freigabedatum: 2026-02-02
+2026-09-10 10:29:31.617 [INFO] [Standard/EPSON.SoftwareUpdater]   Unterst├╝tzte Offlineverteilung: true
+2026-09-10 10:29:31.650 [INFO] [Standard/EPSON.SoftwareUpdater] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:31.686 [INFO] [Standard/GIMP.GIMP] Befehl: winget "list" "--id" "GIMP.GIMP" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:32.526 [INFO] [Standard/GIMP.GIMP] Name       ID        Version
+2026-09-10 10:29:32.557 [INFO] [Standard/GIMP.GIMP] ----------------------------
+2026-09-10 10:29:32.593 [INFO] [Standard/GIMP.GIMP] GIMP 3.2.4 GIMP.GIMP 3.2.4.0
+2026-09-10 10:29:32.630 [INFO] [Standard/GIMP.GIMP] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:32.661 [INFO] [Standard/GIMP.GIMP] Befehl: winget "show" "--id" "GIMP.GIMP" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:33.038 [INFO] [Standard/GIMP.GIMP] Gefunden GIMP [GIMP.GIMP]
+2026-09-10 10:29:33.074 [INFO] [Standard/GIMP.GIMP] Version: 3.2.4
+2026-09-10 10:29:33.110 [INFO] [Standard/GIMP.GIMP] Herausgeber: The GIMP Team
+2026-09-10 10:29:33.142 [INFO] [Standard/GIMP.GIMP] Herausgeber-URL: https://www.gimp.org/
+2026-09-10 10:29:33.179 [INFO] [Standard/GIMP.GIMP] Herausgeber-Support-URL: https://www.gimp.org/develop/
+2026-09-10 10:29:33.211 [INFO] [Standard/GIMP.GIMP] Autor: The GIMP Team
+2026-09-10 10:29:33.250 [INFO] [Standard/GIMP.GIMP] Moniker: gimp
+2026-09-10 10:29:33.288 [INFO] [Standard/GIMP.GIMP] Beschreibung: GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.
+2026-09-10 10:29:33.321 [INFO] [Standard/GIMP.GIMP] Startseite: https://www.gimp.org/downloads/
+2026-09-10 10:29:33.360 [INFO] [Standard/GIMP.GIMP] Lizenz: GPLv3
+2026-09-10 10:29:33.397 [INFO] [Standard/GIMP.GIMP] Lizenz-URL: https://www.gimp.org/about/COPYING
+2026-09-10 10:29:33.435 [INFO] [Standard/GIMP.GIMP] Copyright: ┬® 1995-2026 Spencer Kimball, Peter Mattis and the GIMP Development Team
+2026-09-10 10:29:33.473 [INFO] [Standard/GIMP.GIMP] URL der Versionshinweise: https://www.gimp.org/news/2026/04/19/gimp-3-2-4-released/
+2026-09-10 10:29:33.509 [INFO] [Standard/GIMP.GIMP] Markierungen:
+2026-09-10 10:29:33.547 [INFO] [Standard/GIMP.GIMP]   gnu-image-manipulation-program
+2026-09-10 10:29:33.585 [INFO] [Standard/GIMP.GIMP]   gnuimagemanipulationprogram
+2026-09-10 10:29:33.621 [INFO] [Standard/GIMP.GIMP]   image-editor
+2026-09-10 10:29:33.659 [INFO] [Standard/GIMP.GIMP]   image-editing
+2026-09-10 10:29:33.695 [INFO] [Standard/GIMP.GIMP]   imageediting
+2026-09-10 10:29:33.735 [INFO] [Standard/GIMP.GIMP]   paint
+2026-09-10 10:29:33.776 [INFO] [Standard/GIMP.GIMP]   painting
+2026-09-10 10:29:33.808 [INFO] [Standard/GIMP.GIMP]   photoediting
+2026-09-10 10:29:33.841 [INFO] [Standard/GIMP.GIMP]   photo-editing
+2026-09-10 10:29:33.870 [INFO] [Standard/GIMP.GIMP]   pictures
+2026-09-10 10:29:33.906 [INFO] [Standard/GIMP.GIMP]   9pnsjclxdz0v
+2026-09-10 10:29:33.942 [INFO] [Standard/GIMP.GIMP] Installationsprogramm:
+2026-09-10 10:29:33.970 [INFO] [Standard/GIMP.GIMP]   Installertyp: inno
+2026-09-10 10:29:34.000 [INFO] [Standard/GIMP.GIMP]   Installer-Gebietsschema: en-US
+2026-09-10 10:29:34.033 [INFO] [Standard/GIMP.GIMP]   Installer-URL: https://download.gimp.org/gimp/v3.2/windows/gimp-3.2.4-setup.exe
+2026-09-10 10:29:34.068 [INFO] [Standard/GIMP.GIMP]   Sha256-Installer: ec31d757dd82831d201ffcf47ffeac4175df739e0c02d5122e89aeeadfb988cc
+2026-09-10 10:29:34.106 [INFO] [Standard/GIMP.GIMP]   Freigabedatum: 2026-04-18
+2026-09-10 10:29:34.145 [INFO] [Standard/GIMP.GIMP]   Unterst├╝tzte Offlineverteilung: true
+2026-09-10 10:29:34.181 [INFO] [Standard/GIMP.GIMP] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:34.222 [INFO] [Standard/Governikus.AusweisApp] Befehl: winget "list" "--id" "Governikus.AusweisApp" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:35.060 [INFO] [Standard/Governikus.AusweisApp] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:29:35.090 [INFO] [Standard/Governikus.AusweisApp] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:29:35.125 [INFO] [Standard/Logitech.OptionsPlus] Befehl: winget "list" "--id" "Logitech.OptionsPlus" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:36.008 [INFO] [Standard/Logitech.OptionsPlus] Name          ID                   Version
+2026-09-10 10:29:36.040 [INFO] [Standard/Logitech.OptionsPlus] ---------------------------------------------
+2026-09-10 10:29:36.075 [INFO] [Standard/Logitech.OptionsPlus] Logi Options+ Logitech.OptionsPlus 2.7.961922
+2026-09-10 10:29:36.111 [INFO] [Standard/Logitech.OptionsPlus] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:36.145 [INFO] [Standard/Logitech.OptionsPlus] Befehl: winget "show" "--id" "Logitech.OptionsPlus" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:36.488 [INFO] [Standard/Logitech.OptionsPlus] Gefunden Logi Options+ [Logitech.OptionsPlus]
+2026-09-10 10:29:36.491 [INFO] [Standard/Logitech.OptionsPlus] Version: 2.7.961922
+2026-09-10 10:29:36.502 [INFO] [Standard/Logitech.OptionsPlus] Herausgeber: Logitech
+2026-09-10 10:29:36.512 [INFO] [Standard/Logitech.OptionsPlus] Herausgeber-URL: https://www.logitech.com/
+2026-09-10 10:29:36.522 [INFO] [Standard/Logitech.OptionsPlus] Herausgeber-Support-URL: https://support.logi.com/
+2026-09-10 10:29:36.532 [INFO] [Standard/Logitech.OptionsPlus] Moniker: logi-options-plus
+2026-09-10 10:29:36.560 [INFO] [Standard/Logitech.OptionsPlus] Beschreibung: Enhance your Logitech devices with Logi Options Plus software. Customize settings, create shortcuts, and increase productivity.
+2026-09-10 10:29:36.590 [INFO] [Standard/Logitech.OptionsPlus] Startseite: https://www.logitech.com/software/logi-options-plus
+2026-09-10 10:29:36.627 [INFO] [Standard/Logitech.OptionsPlus] Lizenz: Proprietary
+2026-09-10 10:29:36.664 [INFO] [Standard/Logitech.OptionsPlus] Lizenz-URL: https://www.logitech.com/tos/software-license-agreement
+2026-09-10 10:29:36.700 [INFO] [Standard/Logitech.OptionsPlus] Datenschutz-URL: https://www.logitech.com/legal/product-privacy-policy
+2026-09-10 10:29:36.735 [INFO] [Standard/Logitech.OptionsPlus] Copyright: Copyright (c) 2024 Logitech. All rights reserved.
+2026-09-10 10:29:36.768 [INFO] [Standard/Logitech.OptionsPlus] Versionshinweise:
+2026-09-10 10:29:36.804 [INFO] [Standard/Logitech.OptionsPlus]   MX Creative Console & Actions Ring
+2026-09-10 10:29:36.838 [INFO] [Standard/Logitech.OptionsPlus]   - General Bug Fixes.
+2026-09-10 10:29:36.869 [INFO] [Standard/Logitech.OptionsPlus]   - Added a popup message with detailed compatibility requirements when trying to add an .svg file for icons.
+2026-09-10 10:29:36.897 [INFO] [Standard/Logitech.OptionsPlus]   New Features
+2026-09-10 10:29:36.927 [INFO] [Standard/Logitech.OptionsPlus]   - Enhanced Easy-Switch
+2026-09-10 10:29:36.954 [INFO] [Standard/Logitech.OptionsPlus]     - Logi Options+ now supports enhanced Easy-Switch. With the enhanced Easy-Switch your Logitech mouse will automatically follow your paired keyboard when you switch between computers. This simplifies your workflow by synchronizing your devices. This feature is now available with MX Keys S, MX Keys for mac and MX Keys Mini(All Variants) keyboards. Click here for the full list of supported mice and to know more about the enhanced Easy-Switch feature.
+2026-09-10 10:29:36.978 [INFO] [Standard/Logitech.OptionsPlus]   - Add a ÔÇ£CustomizeÔÇØ button to the Camera Settings overview on the camera page for webcams.
+2026-09-10 10:29:37.016 [INFO] [Standard/Logitech.OptionsPlus]   - Update the field of view selector on the crop tab for webcams.
+2026-09-10 10:29:37.049 [INFO] [Standard/Logitech.OptionsPlus] Dokumentation:
+2026-09-10 10:29:37.088 [INFO] [Standard/Logitech.OptionsPlus]   All about Logi Options+: https://support.logi.com/hc/articles/1500006416522
+2026-09-10 10:29:37.126 [INFO] [Standard/Logitech.OptionsPlus]   Getting Started: https://support.logi.com/hc/articles/1500010313561
+2026-09-10 10:29:37.163 [INFO] [Standard/Logitech.OptionsPlus]   Supported Devices: https://www.logitech.com/software/logi-options-plus#supported-devices
+2026-09-10 10:29:37.201 [INFO] [Standard/Logitech.OptionsPlus] Markierungen:
+2026-09-10 10:29:37.236 [INFO] [Standard/Logitech.OptionsPlus]   audio
+2026-09-10 10:29:37.268 [INFO] [Standard/Logitech.OptionsPlus]   business
+2026-09-10 10:29:37.306 [INFO] [Standard/Logitech.OptionsPlus]   keyboard
+2026-09-10 10:29:37.345 [INFO] [Standard/Logitech.OptionsPlus]   lights
+2026-09-10 10:29:37.384 [INFO] [Standard/Logitech.OptionsPlus]   logi
+2026-09-10 10:29:37.423 [INFO] [Standard/Logitech.OptionsPlus]   logioptions
+2026-09-10 10:29:37.464 [INFO] [Standard/Logitech.OptionsPlus]   meetings
+2026-09-10 10:29:37.502 [INFO] [Standard/Logitech.OptionsPlus]   mouse
+2026-09-10 10:29:37.540 [INFO] [Standard/Logitech.OptionsPlus]   office
+2026-09-10 10:29:37.575 [INFO] [Standard/Logitech.OptionsPlus]   options
+2026-09-10 10:29:37.616 [INFO] [Standard/Logitech.OptionsPlus]   presentations
+2026-09-10 10:29:37.652 [INFO] [Standard/Logitech.OptionsPlus]   webcam-controls
+2026-09-10 10:29:37.685 [INFO] [Standard/Logitech.OptionsPlus]   workflow
+2026-09-10 10:29:37.720 [INFO] [Standard/Logitech.OptionsPlus] Installationsprogramm:
+2026-09-10 10:29:37.754 [INFO] [Standard/Logitech.OptionsPlus]   Installertyp: exe
+2026-09-10 10:29:37.792 [INFO] [Standard/Logitech.OptionsPlus]   Installer-URL: https://download01.logi.com/web/ftp/pub/techsupport/optionsplus/logioptionsplus_installer.exe
+2026-09-10 10:29:37.829 [INFO] [Standard/Logitech.OptionsPlus]   Sha256-Installer: 3ed465b68280a68c8f1fa8b1769c06325052237946c9e1915f8e2b3ebe2f5fe9
+2026-09-10 10:29:37.862 [INFO] [Standard/Logitech.OptionsPlus]   Freigabedatum: 2026-04-28
+2026-09-10 10:29:37.897 [INFO] [Standard/Logitech.OptionsPlus]   Unterst├╝tzte Offlineverteilung: true
+2026-09-10 10:29:37.924 [INFO] [Standard/Logitech.OptionsPlus]   Abh├ñngigkeiten: 
+2026-09-10 10:29:37.948 [INFO] [Standard/Logitech.OptionsPlus]     - Paketabh├ñngigkeiten: 
+2026-09-10 10:29:37.975 [INFO] [Standard/Logitech.OptionsPlus]         Microsoft.VCRedist.2015+.x64
+2026-09-10 10:29:38.000 [INFO] [Standard/Logitech.OptionsPlus] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:38.027 [INFO] [Standard/Microsoft.PowerShell] Befehl: winget "list" "--id" "Microsoft.PowerShell" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:38.821 [INFO] [Standard/Microsoft.PowerShell] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:29:38.854 [INFO] [Standard/Microsoft.PowerShell] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:29:38.890 [INFO] [Standard/Microsoft.PowerToys] Befehl: winget "list" "--id" "Microsoft.PowerToys" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:39.683 [INFO] [Standard/Microsoft.PowerToys] Name                    ID                  Version Verf├╝gbar
+2026-09-10 10:29:39.705 [INFO] [Standard/Microsoft.PowerToys] ----------------------------------------------------------------
+2026-09-10 10:29:39.732 [INFO] [Standard/Microsoft.PowerToys] PowerToys (Preview) x64 Microsoft.PowerToys 0.100.2 0.101.2362.0
+2026-09-10 10:29:39.759 [INFO] [Standard/Microsoft.PowerToys] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:39.788 [INFO] [Standard/Microsoft.PowerToys] Befehl: winget "show" "--id" "Microsoft.PowerToys" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity" "--version" "0.101.2362.0"
+2026-09-10 10:29:40.168 [INFO] [Standard/Microsoft.PowerToys] Gefunden PowerToys [Microsoft.PowerToys]
+2026-09-10 10:29:40.199 [INFO] [Standard/Microsoft.PowerToys] Version: 0.101.2362.0
+2026-09-10 10:29:40.233 [INFO] [Standard/Microsoft.PowerToys] Herausgeber: Microsoft Corporation
+2026-09-10 10:29:40.268 [INFO] [Standard/Microsoft.PowerToys] Herausgeber-URL: https://github.com/microsoft/PowerToys
+2026-09-10 10:29:40.302 [INFO] [Standard/Microsoft.PowerToys] Herausgeber-Support-URL: https://github.com/microsoft/PowerToys/issues
+2026-09-10 10:29:40.337 [INFO] [Standard/Microsoft.PowerToys] Autor: Microsoft Corporation
+2026-09-10 10:29:40.378 [INFO] [Standard/Microsoft.PowerToys] Moniker: powertoys
+2026-09-10 10:29:40.416 [INFO] [Standard/Microsoft.PowerToys] Beschreibung:
+2026-09-10 10:29:40.449 [INFO] [Standard/Microsoft.PowerToys]   Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
+2026-09-10 10:29:40.483 [INFO] [Standard/Microsoft.PowerToys]   Inspired by the Windows 95 era PowerToys project, this reboot provides power users with ways to squeeze more efficiency out of the Windows 10 shell and customize it for individual workflows.
+2026-09-10 10:29:40.520 [INFO] [Standard/Microsoft.PowerToys] Startseite: https://github.com/microsoft/PowerToys
+2026-09-10 10:29:40.559 [INFO] [Standard/Microsoft.PowerToys] Lizenz: MIT
+2026-09-10 10:29:40.599 [INFO] [Standard/Microsoft.PowerToys] Lizenz-URL: https://github.com/microsoft/PowerToys/blob/HEAD/LICENSE
+2026-09-10 10:29:40.637 [INFO] [Standard/Microsoft.PowerToys] Datenschutz-URL: https://privacy.microsoft.com/en-us/privacystatement
+2026-09-10 10:29:40.675 [INFO] [Standard/Microsoft.PowerToys] Copyright: Copyright (c) Microsoft Corporation. All rights reserved.
+2026-09-10 10:29:40.714 [INFO] [Standard/Microsoft.PowerToys] Copyright-URL: https://github.com/microsoft/PowerToys/blob/main/LICENSE
+2026-09-10 10:29:40.750 [INFO] [Standard/Microsoft.PowerToys] Versionshinweise:
+2026-09-10 10:29:40.789 [INFO] [Standard/Microsoft.PowerToys]   Hero image of what's new in version 0.100
+2026-09-10 10:29:40.823 [INFO] [Standard/Microsoft.PowerToys]   Highlights
+2026-09-10 10:29:40.859 [INFO] [Standard/Microsoft.PowerToys]   PowerToys 0.101 introduces Window Hopper for quickly moving between windows from the same app, a redesigned update experience with Stable and Insider channels, and compact mode for Command Palette. This release also continues our WinUI 3 modernization, brings on-device Phi Silica transformations to Advanced Paste, and adds a big set of improvements across PowerDisplay and Shortcut Guide.
+2026-09-10 10:29:40.888 [INFO] [Standard/Microsoft.PowerToys]   Watch the PowerToys 0.101 overview on YouTube
+2026-09-10 10:29:40.924 [INFO] [Standard/Microsoft.PowerToys]   ­ƒ¬ƒ Meet Window Hopper
+2026-09-10 10:29:40.959 [INFO] [Standard/Microsoft.PowerToys]   If you regularly have several windows open from the same app, switching between them is now much faster. Window Hopper works like Alt + Tab, but stays within the app you're currently using. Once the utility is enabled, press the configurable Alt + backtick shortcut to cycle through that app's windows without stepping through everything else on your desktop. It is especially useful when you're juggling multiple browser windows, terminals, File Explorer windows, or editor instances.
+2026-09-10 10:29:40.992 [INFO] [Standard/Microsoft.PowerToys]   Window Hopper
+2026-09-10 10:29:41.016 [INFO] [Standard/Microsoft.PowerToys]   PR: #48281 (with coauthor credit to @wzhudev)
+2026-09-10 10:29:41.045 [INFO] [Standard/Microsoft.PowerToys]   ­ƒöä A smoother update experience and the new Insider channel
+2026-09-10 10:29:41.080 [INFO] [Standard/Microsoft.PowerToys]   PowerToys updates now have a clearer home in Settings. Open Settings > General > Update channel to choose between Stable and Insider. Stable remains the default, while Insider lets you opt in to PowerToys Preview builds and try the latest work sooner. The selected channel remains visible when the setting is collapsed, preview builds are clearly labeled, and managed devices can still have preview updates controlled by organizational policy.
+2026-09-10 10:29:41.110 [INFO] [Standard/Microsoft.PowerToys]   We also redesigned the update experience with clearer badges and a compact status surface that tracks each step, from checking and downloading to installation or errors. Bug reports are easier too, with progress updates, quick access to the generated ZIP, and a prefilled GitHub issue.
+2026-09-10 10:29:41.142 [INFO] [Standard/Microsoft.PowerToys]   PowerToys update settings
+2026-09-10 10:29:41.179 [INFO] [Standard/Microsoft.PowerToys]   PRs: #49414, #49722, and #49872
+2026-09-10 10:29:41.222 [INFO] [Standard/Microsoft.PowerToys]   ÔÜí Command Palette goes compact
+2026-09-10 10:29:41.265 [INFO] [Standard/Microsoft.PowerToys]   Command Palette can now stay out of the way until you need the results. Enable compact mode in Command Palette Settings and the palette opens as a focused search box at a configurable vertical position. Start typing and it expands just enough to show matching results; you can also use Down Arrow or Tab to expand it from the keyboard. Pages that need more room, such as detailed views and confirmation dialogs, still expand fully when required. Compact mode is off by default, so the existing full experience remains unchanged unless you opt in.
+2026-09-10 10:29:41.304 [INFO] [Standard/Microsoft.PowerToys]   Command Palette compact mode
+2026-09-10 10:29:41.319 [INFO] [Standard/Microsoft.PowerToys]   Compact mode is only one part of this Command Palette update:
+2026-09-10 10:29:41.329 [INFO] [Standard/Microsoft.PowerToys]   - Search and responsiveness: Better ranking, cached Window Walker results, and progressive icon loading make results feel faster and more predictable.
+2026-09-10 10:29:41.361 [INFO] [Standard/Microsoft.PowerToys]   - Reliability: Improved backdrop switching, icon loading, dock cleanup, and extension-resource management make prolonged use more stable.
+2026-09-10 10:29:41.401 [INFO] [Standard/Microsoft.PowerToys]   - Dock improvements: Auto-hide reclaims screen space, while the dock clock and an optional bell provide quick access to Notification Center.
+2026-09-10 10:29:41.441 [INFO] [Standard/Microsoft.PowerToys]   - Richer notifications: Extensions can show toasts with configurable positions, icons, and action buttons.
+2026-09-10 10:29:41.481 [INFO] [Standard/Microsoft.PowerToys]   - Performance Monitor: New disk activity metrics and clearer network bands make it easier to keep an eye on system performance.
+2026-09-10 10:29:41.516 [INFO] [Standard/Microsoft.PowerToys]   - Extension Gallery: Deep links can open the gallery or take you directly to a specific extension's installation page.
+2026-09-10 10:29:41.554 [INFO] [Standard/Microsoft.PowerToys]   - Windows Update commands: Update and restart and Update and shut down appear when Windows is waiting for a reboot.
+2026-09-10 10:29:41.583 [INFO] [Standard/Microsoft.PowerToys]   Massive thanks to @jiripolasek for the sustained Command Palette work across this release!
+2026-09-10 10:29:41.613 [INFO] [Standard/Microsoft.PowerToys]   PRs: #48801, #49177, and #49780
+2026-09-10 10:29:41.647 [INFO] [Standard/Microsoft.PowerToys]   ­ƒöä Quick Accent and Mouse Jump move to WinUI 3
+2026-09-10 10:29:41.680 [INFO] [Standard/Microsoft.PowerToys]   We're continuing to modernize PowerToys utilities with WinUI 3, and this release brings refreshed foundations to Quick Accent and Mouse Jump. Quick Accent keeps its familiar character picker while gaining better theming, accessibility, and DPI-aware placement. It also adds an optional Press and hold the letter activation mode: choose it in Quick Accent Settings, configure the hold duration, then hold an accent-capable letter to open the picker. Use the arrow keys or Space to select a character and release the letter to insert it. A quick tap still types the original letter, and normal Ctrl, Alt, AltGr, and Windows-key shortcuts remain unaffected.
+2026-09-10 10:29:41.711 [INFO] [Standard/Microsoft.PowerToys]   Mouse Jump now uses a WinUI 3 interface with improved multi-monitor and mixed-DPI behavior. Invoke Mouse Jump with your configured shortcut, then click the destination in the preview or use the number keys, Home and End, or the arrow keys to select a monitor from the keyboard. Smaller improvements across the two utilities include more reliable Quick Accent activation, better first-frame rendering, expanded language, currency, punctuation, and IPA character sets, plus updated Mouse Jump layout and release support for both x64 and ARM64.
+2026-09-10 10:29:41.742 [INFO] [Standard/Microsoft.PowerToys]   PRs: #48891, #48937, and #48393 (Thanks, @LegendaryBlair and @mikeclayton!)
+2026-09-10 10:29:41.772 [INFO] [Standard/Microsoft.PowerToys]   ­ƒûÑ´©Å PowerDisplay gets linked controls and faster access
+2026-09-10 10:29:41.803 [INFO] [Standard/Microsoft.PowerToys]   PowerDisplay can now control the brightness of several monitors together. Turn on linked brightness to get one All Displays slider for every included brightness-capable monitor, while keeping selected displays independent when needed. Individual display cards remain available in an expandable section, and applying a saved profile returns to per-monitor control before restoring its values. You can also opt in to brightness control from the tray icon: choose whether scrolling over it adjusts the primary display or all linked displays, then set the amount each mouse-wheel notch should change.
+2026-09-10 10:29:41.836 [INFO] [Standard/Microsoft.PowerToys]   PowerDisplay linked controls
+2026-09-10 10:29:41.863 [INFO] [Standard/Microsoft.PowerToys]   PowerDisplay can now wake supported monitors by selecting On from the display's power-state control, and a new command-line interface lets you inspect displays, change monitor settings, and apply saved profiles from scripts. This release also improves built-in panel detection on hybrid-GPU systems, makes Maximum compatibility mode more resilient with unreliable monitors, preserves recent setting changes during exit, restores saved brightness, contrast, volume, and color temperature more reliably, and cleans up monitor and tray resources more consistently.
+2026-09-10 10:29:41.885 [INFO] [Standard/Microsoft.PowerToys]   PRs: #48207 (Thanks, @gilnatab!), #48628, and #49446
+2026-09-10 10:29:41.910 [INFO] [Standard/Microsoft.PowerToys]   ­ƒôï Advanced Paste brings local AI to custom actions
+2026-09-10 10:29:41.929 [INFO] [Standard/Microsoft.PowerToys]   Advanced Paste now supports on-device transformations with Phi Silica on supported Windows devices, so you can use local AI without configuring a cloud endpoint or API key. In Advanced Paste Settings, check Phi Silica availability and download the model when prompted. You can then choose Phi Silica as the provider for an action, customize its prompt and coaching behavior, and assign a shortcut for quick access. Provider selection, prompts, and shortcuts can all be configured per action, making it easier to mix local and online models for different clipboard workflows.
+2026-09-10 10:29:41.957 [INFO] [Standard/Microsoft.PowerToys]   Advanced Paste Phi Silica settings
+2026-09-10 10:29:41.991 [INFO] [Standard/Microsoft.PowerToys]   You can also hide the AI paste section when you do not use AI features, keeping the Advanced Paste window focused on the actions you need. Custom OpenAI and Azure OpenAI actions now work more reliably with models that do not support the minimal reasoning-effort setting by allowing those services to use their own defaults.
+2026-09-10 10:29:42.019 [INFO] [Standard/Microsoft.PowerToys]   PR: #46727
+2026-09-10 10:29:42.034 [INFO] [Standard/Microsoft.PowerToys]   Ôî¿´©Å Shortcut Guide adds Windows-key activation and search
+2026-09-10 10:29:42.057 [INFO] [Standard/Microsoft.PowerToys]   Shortcut Guide can now respond when you hold the Windows key. In Settings, choose whether this shows taskbar indicators, opens the full guide, or remains disabled. You can also configure the hold duration and whether the full guide closes when you release the key, while keeping the regular activation shortcut independent.
+2026-09-10 10:29:42.076 [INFO] [Standard/Microsoft.PowerToys]   Shortcut Guide now includes page-local search across shortcut names, descriptions, modifiers, and displayed keys. This makes it much faster to find one command without scanning an entire app's shortcut list.
+2026-09-10 10:29:42.103 [INFO] [Standard/Microsoft.PowerToys]   Shortcut Guide search
+2026-09-10 10:29:42.127 [INFO] [Standard/Microsoft.PowerToys]   The experience also moves to a single transparent overlay, enabling smoother transitions, cleaner click-outside behavior, and taskbar indicators that adapt to taskbars positioned along any screen edge. Shortcut Guide adds coverage for Brave Browser, Zoom Workspace, the new Outlook for Windows, DaVinci Resolve, Greenshot, 1Password, Godot, Obsidian, ON1 Photo RAW, and Postman, alongside fixes for key rendering, navigation, and stability.
+2026-09-10 10:29:42.157 [INFO] [Standard/Microsoft.PowerToys]   Big thanks to @noraa-junker for the Windows-key activation options and continued Shortcut Guide improvements!
+2026-09-10 10:29:42.193 [INFO] [Standard/Microsoft.PowerToys]   PRs: #49661, #49639, and #48683
+2026-09-10 10:29:42.225 [INFO] [Standard/Microsoft.PowerToys]   ­ƒÄÑ ZoomIt adds DemoMirror
+2026-09-10 10:29:42.249 [INFO] [Standard/Microsoft.PowerToys] URL der Versionshinweise: https://github.com/microsoft/PowerToys/releases/tag/v0.101.2362.0
+2026-09-10 10:29:42.276 [INFO] [Standard/Microsoft.PowerToys] Dokumentation:
+2026-09-10 10:29:42.299 [INFO] [Standard/Microsoft.PowerToys]   Wiki: https://github.com/microsoft/PowerToys/wiki
+2026-09-10 10:29:42.320 [INFO] [Standard/Microsoft.PowerToys] Markierungen:
+2026-09-10 10:29:42.342 [INFO] [Standard/Microsoft.PowerToys]   colorpicker
+2026-09-10 10:29:42.355 [INFO] [Standard/Microsoft.PowerToys]   fancyzones
+2026-09-10 10:29:42.379 [INFO] [Standard/Microsoft.PowerToys]   fileexplorer
+2026-09-10 10:29:42.403 [INFO] [Standard/Microsoft.PowerToys]   imageresizer
+2026-09-10 10:29:42.428 [INFO] [Standard/Microsoft.PowerToys]   keyboardmanager
+2026-09-10 10:29:42.450 [INFO] [Standard/Microsoft.PowerToys]   power-toys
+2026-09-10 10:29:42.469 [INFO] [Standard/Microsoft.PowerToys]   powerrename
+2026-09-10 10:29:42.491 [INFO] [Standard/Microsoft.PowerToys]   powertoys
+2026-09-10 10:29:42.503 [INFO] [Standard/Microsoft.PowerToys]   powertoys-run
+2026-09-10 10:29:42.525 [INFO] [Standard/Microsoft.PowerToys]   windows-key-shortcut-guide
+2026-09-10 10:29:42.546 [INFO] [Standard/Microsoft.PowerToys] Installationsprogramm:
+2026-09-10 10:29:42.571 [INFO] [Standard/Microsoft.PowerToys]   Installertyp: burn
+2026-09-10 10:29:42.593 [INFO] [Standard/Microsoft.PowerToys]   Installer-URL: https://github.com/microsoft/PowerToys/releases/download/v0.101.2362.0/PowerToysUserSetup-0.101.2362.0-x64.exe
+2026-09-10 10:29:42.621 [INFO] [Standard/Microsoft.PowerToys]   Sha256-Installer: d56fa7130fa68afe553068c15a59a6b24c8dbcc9a0989a43ef0fc5a373230de3
+2026-09-10 10:29:42.656 [INFO] [Standard/Microsoft.PowerToys]   Freigabedatum: 2026-08-25
+2026-09-10 10:29:42.685 [INFO] [Standard/Microsoft.PowerToys]   Unterst├╝tzte Offlineverteilung: true
+2026-09-10 10:29:42.707 [INFO] [Standard/Microsoft.PowerToys] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:42.741 [INFO] [Standard/Microsoft.WSL] Befehl: winget "list" "--id" "Microsoft.WSL" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:43.522 [INFO] [Standard/Microsoft.WSL] Name                        ID            Version  Verf├╝gbar
+2026-09-10 10:29:43.526 [INFO] [Standard/Microsoft.WSL] ------------------------------------------------------------
+2026-09-10 10:29:43.560 [INFO] [Standard/Microsoft.WSL] Windows-Subsystem f├╝r Linux Microsoft.WSL 2.7.11.0 2.7.13
+2026-09-10 10:29:43.606 [INFO] [Standard/Microsoft.WSL] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:43.642 [INFO] [Standard/Microsoft.WSL] Befehl: winget "show" "--id" "Microsoft.WSL" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity" "--version" "2.7.13"
+2026-09-10 10:29:44.051 [INFO] [Standard/Microsoft.WSL] Gefunden Windows-Subsystem f├╝r Linux [Microsoft.WSL]
+2026-09-10 10:29:44.087 [INFO] [Standard/Microsoft.WSL] Version: 2.7.13
+2026-09-10 10:29:44.122 [INFO] [Standard/Microsoft.WSL] Herausgeber: Microsoft Corp.
+2026-09-10 10:29:44.159 [INFO] [Standard/Microsoft.WSL] Herausgeber-URL: https://www.microsoft.com/
+2026-09-10 10:29:44.194 [INFO] [Standard/Microsoft.WSL] Herausgeber-Support-URL: https://github.com/microsoft/WSL/blob/master/SUPPORT.md
+2026-09-10 10:29:44.232 [INFO] [Standard/Microsoft.WSL] Autor: Microsoft Corporation
+2026-09-10 10:29:44.272 [INFO] [Standard/Microsoft.WSL] Moniker: wsl
+2026-09-10 10:29:44.306 [INFO] [Standard/Microsoft.WSL] Beschreibung: Windows Subsystem for Linux (WSL) is a feature of Windows that allows you to run a Linux environment on your Windows machine, without the need for a separate virtual machine or dual booting. WSL is designed to provide a seamless and productive experience for developers who want to use both Windows and Linux at the same time.
+2026-09-10 10:29:44.348 [INFO] [Standard/Microsoft.WSL] Startseite: https://learn.microsoft.com/windows/wsl/
+2026-09-10 10:29:44.387 [INFO] [Standard/Microsoft.WSL] Lizenz: MIT
+2026-09-10 10:29:44.430 [INFO] [Standard/Microsoft.WSL] Lizenz-URL: https://github.com/microsoft/WSL/blob/master/LICENSE
+2026-09-10 10:29:44.469 [INFO] [Standard/Microsoft.WSL] Datenschutz-URL: https://privacy.microsoft.com/privacystatement
+2026-09-10 10:29:44.506 [INFO] [Standard/Microsoft.WSL] Copyright: ┬® Microsoft Corporation. All rights reserved.
+2026-09-10 10:29:44.542 [INFO] [Standard/Microsoft.WSL] Copyright-URL: https://www.microsoft.com/legal/intellectualproperty/trademarks
+2026-09-10 10:29:44.576 [INFO] [Standard/Microsoft.WSL] Versionshinweise:
+2026-09-10 10:29:44.619 [INFO] [Standard/Microsoft.WSL]   What's Changed
+2026-09-10 10:29:44.660 [INFO] [Standard/Microsoft.WSL]   - Resolve an issue preventing WSL from starting due to an MDE Plugin error
+2026-09-10 10:29:44.703 [INFO] [Standard/Microsoft.WSL]   Full Changelog: https://github.com/microsoft/WSL/compare/2.7.12...2.7.13
+2026-09-10 10:29:44.742 [INFO] [Standard/Microsoft.WSL] URL der Versionshinweise: https://github.com/microsoft/WSL/releases/tag/2.7.13
+2026-09-10 10:29:44.783 [INFO] [Standard/Microsoft.WSL] Installationshinweise: If the virtual machine platform Windows optional feature was enabled, a restart is required for WSL to function properly.
+2026-09-10 10:29:44.821 [INFO] [Standard/Microsoft.WSL] Markierungen:
+2026-09-10 10:29:44.860 [INFO] [Standard/Microsoft.WSL]   9p9tqf7mrm4r
+2026-09-10 10:29:44.894 [INFO] [Standard/Microsoft.WSL]   windows-subsystem-for-linux
+2026-09-10 10:29:44.922 [INFO] [Standard/Microsoft.WSL]   windows-subsystem-f├╝r-linux
+2026-09-10 10:29:44.946 [INFO] [Standard/Microsoft.WSL]   windowssubsystemf├╝rlinux
+2026-09-10 10:29:44.975 [INFO] [Standard/Microsoft.WSL]   wsl
+2026-09-10 10:29:45.005 [INFO] [Standard/Microsoft.WSL] Installationsprogramm:
+2026-09-10 10:29:45.045 [INFO] [Standard/Microsoft.WSL]   Installertyp: msix
+2026-09-10 10:29:45.083 [INFO] [Standard/Microsoft.WSL]   Installer-URL: https://github.com/microsoft/WSL/releases/download/2.7.13/Microsoft.WSL_2.7.13.0_x64_ARM64.msixbundle
+2026-09-10 10:29:45.121 [INFO] [Standard/Microsoft.WSL]   Sha256-Installer: 3c481b5739a988b22cb81f21737d0f496473ee69bffb1885cc52a77a02ce9fa2
+2026-09-10 10:29:45.161 [INFO] [Standard/Microsoft.WSL]   Freigabedatum: 2026-09-04
+2026-09-10 10:29:45.204 [INFO] [Standard/Microsoft.WSL]   Unterst├╝tzte Offlineverteilung: true
+2026-09-10 10:29:45.250 [INFO] [Standard/Microsoft.WSL] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:45.288 [INFO] [Standard/Mozilla.Firefox.de] Befehl: winget "list" "--id" "Mozilla.Firefox.de" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:46.184 [INFO] [Standard/Mozilla.Firefox.de] Name                     ID                 Version
+2026-09-10 10:29:46.221 [INFO] [Standard/Mozilla.Firefox.de] ---------------------------------------------------
+2026-09-10 10:29:46.261 [INFO] [Standard/Mozilla.Firefox.de] Mozilla Firefox (x64 de) Mozilla.Firefox.de 155.0.1
+2026-09-10 10:29:46.299 [INFO] [Standard/Mozilla.Firefox.de] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:46.343 [INFO] [Standard/Mozilla.Firefox.de] Befehl: winget "show" "--id" "Mozilla.Firefox.de" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:46.704 [INFO] [Standard/Mozilla.Firefox.de] Gefunden Mozilla Firefox (de) [Mozilla.Firefox.de]
+2026-09-10 10:29:46.738 [INFO] [Standard/Mozilla.Firefox.de] Version: 155.0.1
+2026-09-10 10:29:46.776 [INFO] [Standard/Mozilla.Firefox.de] Herausgeber: Mozilla
+2026-09-10 10:29:46.818 [INFO] [Standard/Mozilla.Firefox.de] Herausgeber-URL: https://www.mozilla.org/de/
+2026-09-10 10:29:46.854 [INFO] [Standard/Mozilla.Firefox.de] Herausgeber-Support-URL: https://support.mozilla.org/de/
+2026-09-10 10:29:46.883 [INFO] [Standard/Mozilla.Firefox.de] Autor: Mozilla Foundation
+2026-09-10 10:29:46.915 [INFO] [Standard/Mozilla.Firefox.de] Moniker: firefox
+2026-09-10 10:29:46.942 [INFO] [Standard/Mozilla.Firefox.de] Beschreibung: Mozilla Firefox, kurz Firefox genannt, ist ein freier Webbrowser des Mozilla-Projektes. Er wurde im September 2002 ver├Âffentlicht. Firefox verwendet die Gecko-Layout-Engine zum Rendern von Webseiten, die aktuelle und erwartete Webstandards implementiert. Im Jahr 2017 begann Firefox mit der Einf├╝hrung neuer Technologien unter dem Codenamen Quantum, um Parallelit├ñt und eine intuitivere Benutzeroberfl├ñche zu f├Ârdern. Seine inoffiziellen Ports sind f├╝r verschiedene Unix- und Unix-├ñhnliche Betriebssysteme verf├╝gbar, darunter FreeBSD, OpenBSD, NetBSD, illumos und Solaris Unix.
+2026-09-10 10:29:46.968 [INFO] [Standard/Mozilla.Firefox.de] Startseite: https://www.mozilla.org/de/firefox/
+2026-09-10 10:29:46.989 [INFO] [Standard/Mozilla.Firefox.de] Lizenz: MPL-2.0
+2026-09-10 10:29:47.020 [INFO] [Standard/Mozilla.Firefox.de] Lizenz-URL: https://www.mozilla.org/MPL/2.0
+2026-09-10 10:29:47.056 [INFO] [Standard/Mozilla.Firefox.de] Datenschutz-URL: https://www.mozilla.org/de/privacy/firefox/
+2026-09-10 10:29:47.093 [INFO] [Standard/Mozilla.Firefox.de] Copyright: ┬® Firefox and Mozilla Developers; available under the MPL 2 license.
+2026-09-10 10:29:47.128 [INFO] [Standard/Mozilla.Firefox.de] Copyright-URL: https://www.mozilla.org/foundation/trademarks/policy
+2026-09-10 10:29:47.159 [INFO] [Standard/Mozilla.Firefox.de] Versionshinweise:
+2026-09-10 10:29:47.193 [INFO] [Standard/Mozilla.Firefox.de]   Version 155.0.1, first offered to Release channel users on September 4, 2026
+2026-09-10 10:29:47.229 [INFO] [Standard/Mozilla.Firefox.de]   
+2026-09-10 10:29:47.267 [INFO] [Standard/Mozilla.Firefox.de]   Fixed
+2026-09-10 10:29:47.302 [INFO] [Standard/Mozilla.Firefox.de]   - Fixed Firefox becoming unresponsive on some pages that use CSS blur and backdrop filters together. (Bug 2068836)
+2026-09-10 10:29:47.344 [INFO] [Standard/Mozilla.Firefox.de]   - Fixed the sidebar not reappearing after restarting Firefox when the "Hide tabs and sidebar" option was turned on. (Bug 2065431)
+2026-09-10 10:29:47.382 [INFO] [Standard/Mozilla.Firefox.de]   - Fixed some profile icons not being displayed in the account and application menus. (Bug 2064729, Bug 2067734)
+2026-09-10 10:29:47.422 [INFO] [Standard/Mozilla.Firefox.de]   - Fixed the current device being listed among connected devices in the account menu. (Bug 2059763)
+2026-09-10 10:29:47.469 [INFO] [Standard/Mozilla.Firefox.de]   - Reference link to 155.0 release notes.
+2026-09-10 10:29:47.504 [INFO] [Standard/Mozilla.Firefox.de]   
+2026-09-10 10:29:47.541 [INFO] [Standard/Mozilla.Firefox.de]   Unresolved
+2026-09-10 10:29:47.575 [INFO] [Standard/Mozilla.Firefox.de]   - Standard dynamic range (SDR) video in some formats can appear washed out on macOS. The issue is under investigation and a fix will ship in a future release. (Bug 2068961)
+2026-09-10 10:29:47.618 [INFO] [Standard/Mozilla.Firefox.de] URL der Versionshinweise: https://www.firefox.com/en-US/firefox/155.0.1/releasenotes/
+2026-09-10 10:29:47.654 [INFO] [Standard/Mozilla.Firefox.de] Markierungen: webbrowser
+2026-09-10 10:29:47.692 [INFO] [Standard/Mozilla.Firefox.de] Installationsprogramm:
+2026-09-10 10:29:47.730 [INFO] [Standard/Mozilla.Firefox.de]   Installertyp: nullsoft
+2026-09-10 10:29:47.764 [INFO] [Standard/Mozilla.Firefox.de]   Installer-URL: https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0.1/win64/de/Firefox%20Setup%20155.0.1.exe
+2026-09-10 10:29:47.800 [INFO] [Standard/Mozilla.Firefox.de]   Sha256-Installer: 962607f010745f2f89d1c18ceb850c182f49e292d3ee077ae096297da2af2f22
+2026-09-10 10:29:47.816 [INFO] [Standard/Mozilla.Firefox.de]   Freigabedatum: 2026-09-04
+2026-09-10 10:29:47.848 [INFO] [Standard/Mozilla.Firefox.de]   Unterst├╝tzte Offlineverteilung: true
+2026-09-10 10:29:47.882 [INFO] [Standard/Mozilla.Firefox.de] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:47.910 [INFO] [Standard/Mozilla.Thunderbird.de] Befehl: winget "list" "--id" "Mozilla.Thunderbird.de" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:48.719 [INFO] [Standard/Mozilla.Thunderbird.de] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:29:48.740 [INFO] [Standard/Mozilla.Thunderbird.de] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:29:48.775 [INFO] [Standard/Obsidian.Obsidian] Befehl: winget "list" "--id" "Obsidian.Obsidian" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:49.621 [INFO] [Standard/Obsidian.Obsidian] Name     ID                Version Verf├╝gbar
+2026-09-10 10:29:49.623 [INFO] [Standard/Obsidian.Obsidian] --------------------------------------------
+2026-09-10 10:29:49.658 [INFO] [Standard/Obsidian.Obsidian] Obsidian Obsidian.Obsidian 1.13.4  1.13.7
+2026-09-10 10:29:49.693 [INFO] [Standard/Obsidian.Obsidian] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:49.732 [INFO] [Standard/Obsidian.Obsidian] Befehl: winget "show" "--id" "Obsidian.Obsidian" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity" "--version" "1.13.7"
+2026-09-10 10:29:50.098 [INFO] [Standard/Obsidian.Obsidian] Gefunden Obsidian [Obsidian.Obsidian]
+2026-09-10 10:29:50.121 [INFO] [Standard/Obsidian.Obsidian] Version: 1.13.7
+2026-09-10 10:29:50.152 [INFO] [Standard/Obsidian.Obsidian] Herausgeber: Obsidian
+2026-09-10 10:29:50.186 [INFO] [Standard/Obsidian.Obsidian] Herausgeber-URL: https://obsidian.md/
+2026-09-10 10:29:50.222 [INFO] [Standard/Obsidian.Obsidian] Herausgeber-Support-URL: https://help.obsidian.md/
+2026-09-10 10:29:50.261 [INFO] [Standard/Obsidian.Obsidian] Autor: Dynalist Inc.
+2026-09-10 10:29:50.296 [INFO] [Standard/Obsidian.Obsidian] Moniker: obsidian
+2026-09-10 10:29:50.330 [INFO] [Standard/Obsidian.Obsidian] Beschreibung: Obsidian is the private and flexible writing app that adapts to the way you think.
+2026-09-10 10:29:50.371 [INFO] [Standard/Obsidian.Obsidian] Startseite: https://obsidian.md/
+2026-09-10 10:29:50.408 [INFO] [Standard/Obsidian.Obsidian] Lizenz: Proprietary
+2026-09-10 10:29:50.442 [INFO] [Standard/Obsidian.Obsidian] Lizenz-URL: https://obsidian.md/terms
+2026-09-10 10:29:50.478 [INFO] [Standard/Obsidian.Obsidian] Datenschutz-URL: https://obsidian.md/privacy
+2026-09-10 10:29:50.516 [INFO] [Standard/Obsidian.Obsidian] Copyright: Copyright ┬® Dynalist Inc.
+2026-09-10 10:29:50.551 [INFO] [Standard/Obsidian.Obsidian] Versionshinweise:
+2026-09-10 10:29:50.591 [INFO] [Standard/Obsidian.Obsidian]   No longer broken
+2026-09-10 10:29:50.631 [INFO] [Standard/Obsidian.Obsidian]   - macOS: Fixed files with special characters in their names sometimes not appearing in the vault.
+2026-09-10 10:29:50.671 [INFO] [Standard/Obsidian.Obsidian]   - Editor: Fixed inline math in a list item or callout not rendering correctly.
+2026-09-10 10:29:50.703 [INFO] [Standard/Obsidian.Obsidian]   - Live Preview: Fixed images in pop-out windows not resizing or opening fullscreen while the main window is minimized.
+2026-09-10 10:29:50.744 [INFO] [Standard/Obsidian.Obsidian]   - Settings: Fixed CSS Snippet menu showing duplicate entries.
+2026-09-10 10:29:50.778 [INFO] [Standard/Obsidian.Obsidian]   Developers
+2026-09-10 10:29:50.816 [INFO] [Standard/Obsidian.Obsidian]   - Improved appearance of setting controls when they are disabled.
+2026-09-10 10:29:50.849 [INFO] [Standard/Obsidian.Obsidian] URL der Versionshinweise: https://obsidian.md/changelog/2026-08-12-desktop-v1.13.7/
+2026-09-10 10:29:50.881 [INFO] [Standard/Obsidian.Obsidian] Kauf-URL: https://obsidian.md/pricing
+2026-09-10 10:29:50.913 [INFO] [Standard/Obsidian.Obsidian] Markierungen:
+2026-09-10 10:29:50.939 [INFO] [Standard/Obsidian.Obsidian]   backlink
+2026-09-10 10:29:50.970 [INFO] [Standard/Obsidian.Obsidian]   bi-directional-link
+2026-09-10 10:29:51.006 [INFO] [Standard/Obsidian.Obsidian]   block
+2026-09-10 10:29:51.040 [INFO] [Standard/Obsidian.Obsidian]   docs
+2026-09-10 10:29:51.076 [INFO] [Standard/Obsidian.Obsidian]   document
+2026-09-10 10:29:51.111 [INFO] [Standard/Obsidian.Obsidian]   editor
+2026-09-10 10:29:51.146 [INFO] [Standard/Obsidian.Obsidian]   graph
+2026-09-10 10:29:51.182 [INFO] [Standard/Obsidian.Obsidian]   knowledge
+2026-09-10 10:29:51.218 [INFO] [Standard/Obsidian.Obsidian]   knowledge-base
+2026-09-10 10:29:51.258 [INFO] [Standard/Obsidian.Obsidian]   markdown
+2026-09-10 10:29:51.297 [INFO] [Standard/Obsidian.Obsidian]   mind-map
+2026-09-10 10:29:51.331 [INFO] [Standard/Obsidian.Obsidian]   mindmap
+2026-09-10 10:29:51.362 [INFO] [Standard/Obsidian.Obsidian]   notes
+2026-09-10 10:29:51.398 [INFO] [Standard/Obsidian.Obsidian]   outliner
+2026-09-10 10:29:51.433 [INFO] [Standard/Obsidian.Obsidian]   pkm
+2026-09-10 10:29:51.470 [INFO] [Standard/Obsidian.Obsidian]   reference
+2026-09-10 10:29:51.502 [INFO] [Standard/Obsidian.Obsidian] Installationsprogramm:
+2026-09-10 10:29:51.539 [INFO] [Standard/Obsidian.Obsidian]   Installertyp: nullsoft
+2026-09-10 10:29:51.576 [INFO] [Standard/Obsidian.Obsidian]   Installer-URL: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7.exe
+2026-09-10 10:29:51.611 [INFO] [Standard/Obsidian.Obsidian]   Sha256-Installer: f233dc24896b3f2d5f9e4b01111181a561d0760b2105f0a474024c5f3143a9bc
+2026-09-10 10:29:51.651 [INFO] [Standard/Obsidian.Obsidian]   Freigabedatum: 2026-08-12
+2026-09-10 10:29:51.692 [INFO] [Standard/Obsidian.Obsidian]   Unterst├╝tzte Offlineverteilung: true
+2026-09-10 10:29:51.734 [INFO] [Standard/Obsidian.Obsidian] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:51.771 [INFO] [Standard/RARLab.WinRAR] Befehl: winget "list" "--id" "RARLab.WinRAR" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:52.540 [INFO] [Standard/RARLab.WinRAR] Name                 ID            Version
+2026-09-10 10:29:52.569 [INFO] [Standard/RARLab.WinRAR] ------------------------------------------
+2026-09-10 10:29:52.608 [INFO] [Standard/RARLab.WinRAR] WinRAR 7.23 (64-Bit) RARLab.WinRAR 7.23.0
+2026-09-10 10:29:52.644 [INFO] [Standard/RARLab.WinRAR] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:52.683 [INFO] [Standard/RARLab.WinRAR] Befehl: winget "show" "--id" "RARLab.WinRAR" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity" "--locale" "de"
+2026-09-10 10:29:53.070 [INFO] [Standard/RARLab.WinRAR] Gefunden WinRAR [RARLab.WinRAR]
+2026-09-10 10:29:53.102 [INFO] [Standard/RARLab.WinRAR] Version: 7.23.0
+2026-09-10 10:29:53.140 [INFO] [Standard/RARLab.WinRAR] Herausgeber: win.rar GmbH
+2026-09-10 10:29:53.176 [INFO] [Standard/RARLab.WinRAR] Herausgeber-URL: https://www.rarlab.com/
+2026-09-10 10:29:53.215 [INFO] [Standard/RARLab.WinRAR] Herausgeber-Support-URL: https://www.win-rar.com/support.html
+2026-09-10 10:29:53.254 [INFO] [Standard/RARLab.WinRAR] Autor: win.rar GmbH
+2026-09-10 10:29:53.291 [INFO] [Standard/RARLab.WinRAR] Moniker: winrar
+2026-09-10 10:29:53.332 [INFO] [Standard/RARLab.WinRAR] Beschreibung:
+2026-09-10 10:29:53.369 [INFO] [Standard/RARLab.WinRAR]   - WinRAR ist ein leistungsf├ñhiges Packprogramm mit vielen integrierten zus├ñtzlichen Funktionen, welches Ihnen bei der Organisation Ihrer komprimierten Archive behilflich ist.
+2026-09-10 10:29:53.406 [INFO] [Standard/RARLab.WinRAR]   - WinRAR setzt sich von der Vielzahl an verschiedenen Kompressionsprogrammen ab, wenn es ums Packen geht. Durch die konsequente Erstellung von kleineren Archiven ist WinRAR oftmals schneller als die Konkurrenz. Dadurch sparen Sie nicht nur Speicherplatz, sondern auch Kosten und wertvolle Arbeitszeit.
+2026-09-10 10:29:53.446 [INFO] [Standard/RARLab.WinRAR]   - WinRAR unterst├╝tzt neben dem RAR Format auch alle alle g├ñngigen Komprimierungsformate (ZIP, CAB, ARJ, LZH, TAR, GZip, UUE, ISO, BZIP2, Z und 7-Zip).
+2026-09-10 10:29:53.481 [INFO] [Standard/RARLab.WinRAR]   - WinRAR ist ideal f├╝r Multimedia-Dateien, f├╝r diese automatisch das am besten geeignete Komprimierungsverfahren ausgew├ñhlt wird. Der spezielle Kompressionsalgorithmus packt Multimedia-Dateien, ausf├╝hrbare Dateien und Programmbibliotheken besonders gut.
+2026-09-10 10:29:53.516 [INFO] [Standard/RARLab.WinRAR]   - WinRAR unterst├╝tzt gesplittete Archive (sogenannte Multi-Volumen, wobei Volumen Teile des Gesamtarchivs darstellen). Grosse Archive k├Ânnen so auf mehreren Disketten oder anderen wechselbaren Medien gespeichert werden.
+2026-09-10 10:29:53.550 [INFO] [Standard/RARLab.WinRAR]   - WinRAR ist ebenso ideal, wenn Sie Daten ├╝ber das Internet ├╝bertragen wollen. Seine 256-bit Verschl├╝sselung und Authentit├ñtspr├╝fungstechnologie geben Ihnen die Sicherheit nach der Sie gesucht haben.
+2026-09-10 10:29:53.584 [INFO] [Standard/RARLab.WinRAR]   - WinRAR ist ein Trial Product, das heisst, dass Sie die Software ausgiebig testen k├Ânnen. Das Programm kann von Ihnen 40 Tage v├Âllig kostenfrei genutzt werden, bevor Sie sich f├╝r einen Kauf entscheiden!
+2026-09-10 10:29:53.618 [INFO] [Standard/RARLab.WinRAR]   - WinRAR Lizenzen sind f├╝r alle verf├╝gbaren Sprachen und Betriebssysteme g├╝ltig. Wenn Sie mehrere Lizenzen gekauft haben, k├Ânnen Sie diese sowohl auf verschiedenen Betriebssystemen als auch in verschiedenen Sprachen entsprechend Ihrer Bed├╝rfnisse nutzen.
+2026-09-10 10:29:53.649 [INFO] [Standard/RARLab.WinRAR] Startseite: https://www.win-rar.com/
+2026-09-10 10:29:53.670 [INFO] [Standard/RARLab.WinRAR] Lizenz: Proprietary
+2026-09-10 10:29:53.695 [INFO] [Standard/RARLab.WinRAR] Lizenz-URL: https://www.win-rar.com/winrarlicense.html
+2026-09-10 10:29:53.718 [INFO] [Standard/RARLab.WinRAR] Datenschutz-URL: https://www.win-rar.com/cookies.html
+2026-09-10 10:29:53.743 [INFO] [Standard/RARLab.WinRAR] Copyright: Copyright ┬® 1993-2026 by Alexander Roshal
+2026-09-10 10:29:53.767 [INFO] [Standard/RARLab.WinRAR] Copyright-URL: https://www.win-rar.com/winrarlicense.html
+2026-09-10 10:29:53.791 [INFO] [Standard/RARLab.WinRAR] Versionshinweise:
+2026-09-10 10:29:53.821 [INFO] [Standard/RARLab.WinRAR]   1. Heap overflow vulnerability is fixed in RAR5 recovery volume
+2026-09-10 10:29:53.848 [INFO] [Standard/RARLab.WinRAR]        data reconstruction code. It affects WinRAR, RAR and UnRAR.
+2026-09-10 10:29:53.881 [INFO] [Standard/RARLab.WinRAR]        UnRAR.dll library doesn't include recovery volume processing,
+2026-09-10 10:29:53.903 [INFO] [Standard/RARLab.WinRAR]        so it is not affected.
+2026-09-10 10:29:53.933 [INFO] [Standard/RARLab.WinRAR]   
+2026-09-10 10:29:53.960 [INFO] [Standard/RARLab.WinRAR]        We are thankful to Arjun Basnet from Securin Labs for letting us know
+2026-09-10 10:29:53.985 [INFO] [Standard/RARLab.WinRAR]        about this security issue.
+2026-09-10 10:29:54.015 [INFO] [Standard/RARLab.WinRAR]   
+2026-09-10 10:29:54.050 [INFO] [Standard/RARLab.WinRAR]     2. Symbolic link pointing outside of destination folder could be created
+2026-09-10 10:29:54.085 [INFO] [Standard/RARLab.WinRAR]        even without -ola switch, when extracting a specially crafted
+2026-09-10 10:29:54.123 [INFO] [Standard/RARLab.WinRAR]        RAR archive by WinRAR, RAR, UnRAR or UnRAR.dll library.
+2026-09-10 10:29:54.157 [INFO] [Standard/RARLab.WinRAR]   
+2026-09-10 10:29:54.194 [INFO] [Standard/RARLab.WinRAR]        Further check in extraction code prevents placing files to such folder
+2026-09-10 10:29:54.228 [INFO] [Standard/RARLab.WinRAR]        even in case of multiple extraction commands, excluding the possibility
+2026-09-10 10:29:54.264 [INFO] [Standard/RARLab.WinRAR]        of path traversal attack for WinRAR, RAR or UnRAR based extraction.
+2026-09-10 10:29:54.300 [INFO] [Standard/RARLab.WinRAR]        It limits the potential threat to a case where another tool uses this
+2026-09-10 10:29:54.334 [INFO] [Standard/RARLab.WinRAR]        symbolic link to store files.
+2026-09-10 10:29:54.365 [INFO] [Standard/RARLab.WinRAR]   
+2026-09-10 10:29:54.407 [INFO] [Standard/RARLab.WinRAR]        We are thankful to scofaild23-bnomran for letting us know about this
+2026-09-10 10:29:54.444 [INFO] [Standard/RARLab.WinRAR]        security issue.
+2026-09-10 10:29:54.480 [INFO] [Standard/RARLab.WinRAR]   
+2026-09-10 10:29:54.514 [INFO] [Standard/RARLab.WinRAR]     3. 7zxa.dll 7z extraction library is updated to version 26.02 to include
+2026-09-10 10:29:54.551 [INFO] [Standard/RARLab.WinRAR]        bug and vulnerability fixes by the library developer.
+2026-09-10 10:29:54.590 [INFO] [Standard/RARLab.WinRAR]   
+2026-09-10 10:29:54.628 [INFO] [Standard/RARLab.WinRAR]     4. Switch -iver prints RAR version even if -idc is specified
+2026-09-10 10:29:54.672 [INFO] [Standard/RARLab.WinRAR]        in the command line, configuration file or RARINISWITCHES environment
+2026-09-10 10:29:54.687 [INFO] [Standard/RARLab.WinRAR]        variable. Previously -idc blocked -iver action.
+2026-09-10 10:29:54.701 [INFO] [Standard/RARLab.WinRAR]   
+2026-09-10 10:29:54.732 [INFO] [Standard/RARLab.WinRAR]        Also a new line character is added to -iver output.
+2026-09-10 10:29:54.768 [INFO] [Standard/RARLab.WinRAR] URL der Versionshinweise: https://www.win-rar.com/whatsnew.html
+2026-09-10 10:29:54.807 [INFO] [Standard/RARLab.WinRAR] Dokumentation:
+2026-09-10 10:29:54.842 [INFO] [Standard/RARLab.WinRAR]   FAQ: https://www.win-rar.com/faq.html
+2026-09-10 10:29:54.877 [INFO] [Standard/RARLab.WinRAR] Markierungen:
+2026-09-10 10:29:54.909 [INFO] [Standard/RARLab.WinRAR]   archive
+2026-09-10 10:29:54.936 [INFO] [Standard/RARLab.WinRAR]   archiver
+2026-09-10 10:29:54.972 [INFO] [Standard/RARLab.WinRAR]   compress
+2026-09-10 10:29:55.004 [INFO] [Standard/RARLab.WinRAR]   compression
+2026-09-10 10:29:55.034 [INFO] [Standard/RARLab.WinRAR]   decompress
+2026-09-10 10:29:55.071 [INFO] [Standard/RARLab.WinRAR]   decompression
+2026-09-10 10:29:55.107 [INFO] [Standard/RARLab.WinRAR]   extract
+2026-09-10 10:29:55.140 [INFO] [Standard/RARLab.WinRAR]   extractor
+2026-09-10 10:29:55.177 [INFO] [Standard/RARLab.WinRAR]   rar
+2026-09-10 10:29:55.212 [INFO] [Standard/RARLab.WinRAR]   unarchive
+2026-09-10 10:29:55.242 [INFO] [Standard/RARLab.WinRAR]   unarchiver
+2026-09-10 10:29:55.279 [INFO] [Standard/RARLab.WinRAR]   unzip
+2026-09-10 10:29:55.312 [INFO] [Standard/RARLab.WinRAR]   zip
+2026-09-10 10:29:55.341 [INFO] [Standard/RARLab.WinRAR] Installationsprogramm:
+2026-09-10 10:29:55.382 [INFO] [Standard/RARLab.WinRAR]   Installertyp: exe
+2026-09-10 10:29:55.420 [INFO] [Standard/RARLab.WinRAR]   Installer-Gebietsschema: de
+2026-09-10 10:29:55.453 [INFO] [Standard/RARLab.WinRAR]   Installer-URL: https://www.rarlab.com/rar/winrar-x64-723d.exe
+2026-09-10 10:29:55.488 [INFO] [Standard/RARLab.WinRAR]   Sha256-Installer: 013fef82b28b1bb7c5071f3ef30a504be60034566358e692aaf09823dc4008e5
+2026-09-10 10:29:55.523 [INFO] [Standard/RARLab.WinRAR]   Unterst├╝tzte Offlineverteilung: true
+2026-09-10 10:29:55.561 [INFO] [Standard/RARLab.WinRAR] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:55.595 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Befehl: winget "list" "--id" "RaspberryPiFoundation.RaspberryPiImager" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:56.485 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Name                ID                                      Version
+2026-09-10 10:29:56.488 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] -------------------------------------------------------------------
+2026-09-10 10:29:56.523 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Raspberry Pi Imager RaspberryPiFoundation.RaspberryPiImager v2.0.8
+2026-09-10 10:29:56.559 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:56.594 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Befehl: winget "show" "--id" "RaspberryPiFoundation.RaspberryPiImager" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:29:56.940 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Gefunden Raspberry Pi Imager [RaspberryPiFoundation.RaspberryPiImager]
+2026-09-10 10:29:56.968 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Version: 2.0.8
+2026-09-10 10:29:56.990 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Herausgeber: Raspberry Pi Ltd
+2026-09-10 10:29:57.026 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Herausgeber-URL: https://github.com/raspberrypi
+2026-09-10 10:29:57.062 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Herausgeber-Support-URL: https://github.com/raspberrypi/rpi-imager/issues
+2026-09-10 10:29:57.097 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Autor: Raspberry Pi Ltd
+2026-09-10 10:29:57.135 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Moniker: rpi-imager
+2026-09-10 10:29:57.177 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Beschreibung:
+2026-09-10 10:29:57.221 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   Raspberry Pi Imager is the quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi.
+2026-09-10 10:29:57.257 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   
+2026-09-10 10:29:57.290 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   Download and install Raspberry Pi Imager on a computer with an SD card reader. Insert the microSD card youÔÇÖll use with your Raspberry Pi into the reader and run Raspberry Pi Imager.
+2026-09-10 10:29:57.330 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Startseite: https://github.com/raspberrypi/rpi-imager/
+2026-09-10 10:29:57.367 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Lizenz: Apache-2.0
+2026-09-10 10:29:57.403 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Lizenz-URL: https://github.com/raspberrypi/rpi-imager/blob/HEAD/license.txt
+2026-09-10 10:29:57.440 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Copyright: Copyright (C) 2026 Raspberry Pi Ltd
+2026-09-10 10:29:57.477 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Copyright-URL: https://github.com/raspberrypi/rpi-imager/blob/qml/license.txt
+2026-09-10 10:29:57.512 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Versionshinweise:
+2026-09-10 10:29:57.543 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   What's changed
+2026-09-10 10:29:57.578 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - Fastboot:
+2026-09-10 10:29:57.613 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Enumerate storage devices
+2026-09-10 10:29:57.650 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Add mount, unmount, and custom gadget support
+2026-09-10 10:29:57.688 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Rename stage to download
+2026-09-10 10:29:57.726 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Retry on transient USB errors
+2026-09-10 10:29:57.765 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - OS Customisation:
+2026-09-10 10:29:57.803 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Don't set any groups, leave it to the OS
+2026-09-10 10:29:57.845 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Use explicit runcmds for passwordless sudo
+2026-09-10 10:29:57.889 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Require active locale selection; no pre-filled defaults
+2026-09-10 10:29:57.909 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - UI:
+2026-09-10 10:29:57.942 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Refresh clipboard status as text fields show
+2026-09-10 10:29:57.973 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - SSH:
+2026-09-10 10:29:58.003 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Add state machine for handling PuTTY's multiline SSH keys
+2026-09-10 10:29:58.027 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - Linux:
+2026-09-10 10:29:58.060 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Explicitly exclude libsystemd
+2026-09-10 10:29:58.099 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - Write Operations:
+2026-09-10 10:29:58.137 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Increase watchdog stall timeout to 180s to match the async write timeout
+2026-09-10 10:29:58.174 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Exclude final data sync from write watchdog to avoid false stalls on slow
+2026-09-10 10:29:58.217 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]       cards
+2026-09-10 10:29:58.255 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - i18n: Updated French, Slovak translation dictionaries
+2026-09-10 10:29:58.293 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - Documentation:
+2026-09-10 10:29:58.331 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]     - Add a screenshot of the interface
+2026-09-10 10:29:58.373 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   PRs
+2026-09-10 10:29:58.409 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - Screenshot by @nafanz in https://github.com/raspberrypi/rpi-imager/pull/1559
+2026-09-10 10:29:58.438 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - Improve french translation by @martignoni in https://github.com/raspberrypi/rpi-imager/pull/1560
+2026-09-10 10:29:58.475 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - Added a state machine for handling PuTTY's multiline SSH keys by @bjepson in https://github.com/raspberrypi/rpi-imager/pull/1574
+2026-09-10 10:29:58.515 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - 2.0.8: Bugfixes, fastboot improvements by @tdewey-rpi in https://github.com/raspberrypi/rpi-imager/pull/1582
+2026-09-10 10:29:58.552 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - Update Slovak translation. by @jose1711 in https://github.com/raspberrypi/rpi-imager/pull/1571
+2026-09-10 10:29:58.587 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - 2.0.8: GH templates, changelog by @tdewey-rpi in https://github.com/raspberrypi/rpi-imager/pull/1583
+2026-09-10 10:29:58.626 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - fix(stall): Relax thresholds, don't count final sync as stallable. by @tdewey-rpi in https://github.com/raspberrypi/rpi-imager/pull/1584
+2026-09-10 10:29:58.662 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   New Contributors
+2026-09-10 10:29:58.701 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   - @bjepson made their first contribution in https://github.com/raspberrypi/rpi-imager/pull/1574
+2026-09-10 10:29:58.739 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   Full Changelog: https://github.com/raspberrypi/rpi-imager/compare/v2.0.7...v2.0.8
+2026-09-10 10:29:58.779 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] URL der Versionshinweise: https://github.com/raspberrypi/rpi-imager/releases/tag/v2.0.8
+2026-09-10 10:29:58.810 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Markierungen:
+2026-09-10 10:29:58.844 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   flash
+2026-09-10 10:29:58.881 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   imager
+2026-09-10 10:29:58.908 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   raspberrypi
+2026-09-10 10:29:58.937 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   sd
+2026-09-10 10:29:58.970 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] Installationsprogramm:
+2026-09-10 10:29:59.001 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   Installertyp: inno
+2026-09-10 10:29:59.039 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   Installer-Gebietsschema: en-US
+2026-09-10 10:29:59.076 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   Installer-URL: https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.8/imager-v2.0.8.exe
+2026-09-10 10:29:59.116 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   Sha256-Installer: 3a2eddf6598a6f1570ce683a76b2bfbe0e4b9ebfb24cde91ac0005140675cbf7
+2026-09-10 10:29:59.161 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   Freigabedatum: 2026-04-08
+2026-09-10 10:29:59.196 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager]   Unterst├╝tzte Offlineverteilung: true
+2026-09-10 10:29:59.237 [INFO] [Standard/RaspberryPiFoundation.RaspberryPiImager] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:29:59.281 [INFO] [Standard/REINERSCT.cyberJackDriverPackage] Befehl: winget "list" "--id" "REINERSCT.cyberJackDriverPackage" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:00.075 [INFO] [Standard/REINERSCT.cyberJackDriverPackage] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:30:00.108 [INFO] [Standard/REINERSCT.cyberJackDriverPackage] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:30:00.144 [INFO] [Standard/Yubico.Authenticator] Befehl: winget "list" "--id" "Yubico.Authenticator" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:00.955 [INFO] [Standard/Yubico.Authenticator] Name                 ID                   Version
+2026-09-10 10:30:00.992 [INFO] [Standard/Yubico.Authenticator] -------------------------------------------------
+2026-09-10 10:30:01.030 [INFO] [Standard/Yubico.Authenticator] Yubico Authenticator Yubico.Authenticator 7.4.2
+2026-09-10 10:30:01.071 [INFO] [Standard/Yubico.Authenticator] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:30:01.111 [INFO] [Standard/Yubico.Authenticator] Befehl: winget "show" "--id" "Yubico.Authenticator" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:01.484 [INFO] [Standard/Yubico.Authenticator] Gefunden Yubico Authenticator [Yubico.Authenticator]
+2026-09-10 10:30:01.513 [INFO] [Standard/Yubico.Authenticator] Version: 7.4.2
+2026-09-10 10:30:01.544 [INFO] [Standard/Yubico.Authenticator] Herausgeber: Yubico AB
+2026-09-10 10:30:01.577 [INFO] [Standard/Yubico.Authenticator] Herausgeber-URL: https://www.yubico.com/
+2026-09-10 10:30:01.610 [INFO] [Standard/Yubico.Authenticator] Herausgeber-Support-URL: https://support.yubico.com/
+2026-09-10 10:30:01.642 [INFO] [Standard/Yubico.Authenticator] Autor: Yubico AB
+2026-09-10 10:30:01.681 [INFO] [Standard/Yubico.Authenticator] Moniker: yubioath
+2026-09-10 10:30:01.719 [INFO] [Standard/Yubico.Authenticator] Beschreibung: Authenticator to generate 2-step verification codes using your YubiKey
+2026-09-10 10:30:01.757 [INFO] [Standard/Yubico.Authenticator] Startseite: https://www.yubico.com/products/yubico-authenticator/
+2026-09-10 10:30:01.789 [INFO] [Standard/Yubico.Authenticator] Lizenz: Apache-2.0
+2026-09-10 10:30:01.823 [INFO] [Standard/Yubico.Authenticator] Lizenz-URL: https://github.com/Yubico/yubioath-flutter/blob/HEAD/LICENSE
+2026-09-10 10:30:01.861 [INFO] [Standard/Yubico.Authenticator] Datenschutz-URL: https://www.yubico.com/support/terms-conditions/privacy-notice/
+2026-09-10 10:30:01.887 [INFO] [Standard/Yubico.Authenticator] Copyright: Yubico (c) 2022. All Rights Reserved.
+2026-09-10 10:30:01.920 [INFO] [Standard/Yubico.Authenticator] Versionshinweise:
+2026-09-10 10:30:01.946 [INFO] [Standard/Yubico.Authenticator]   This is a Windows-only release.
+2026-09-10 10:30:01.976 [INFO] [Standard/Yubico.Authenticator] 
+2026-09-10 10:30:02.006 [INFO] [Standard/Yubico.Authenticator]   
+2026-09-10 10:30:02.035 [INFO] [Standard/Yubico.Authenticator] 
+2026-09-10 10:30:02.068 [INFO] [Standard/Yubico.Authenticator]   ÔÇó Bug fixes and accessibility improvements.
+2026-09-10 10:30:02.105 [INFO] [Standard/Yubico.Authenticator] 
+2026-09-10 10:30:02.136 [INFO] [Standard/Yubico.Authenticator]   ÔÇó Binaries compiled with Flutter 3.44.4 and Python 3.14.7 (desktop).
+2026-09-10 10:30:02.158 [INFO] [Standard/Yubico.Authenticator] URL der Versionshinweise: https://github.com/Yubico/yubioath-flutter/releases/tag/7.4.2
+2026-09-10 10:30:02.193 [INFO] [Standard/Yubico.Authenticator] Markierungen:
+2026-09-10 10:30:02.230 [INFO] [Standard/Yubico.Authenticator]   2fa
+2026-09-10 10:30:02.263 [INFO] [Standard/Yubico.Authenticator]   auth
+2026-09-10 10:30:02.290 [INFO] [Standard/Yubico.Authenticator]   security
+2026-09-10 10:30:02.327 [INFO] [Standard/Yubico.Authenticator]   totp
+2026-09-10 10:30:02.361 [INFO] [Standard/Yubico.Authenticator] Installationsprogramm:
+2026-09-10 10:30:02.395 [INFO] [Standard/Yubico.Authenticator]   Installertyp: wix
+2026-09-10 10:30:02.428 [INFO] [Standard/Yubico.Authenticator]   Installer-Gebietsschema: en-US
+2026-09-10 10:30:02.459 [INFO] [Standard/Yubico.Authenticator]   Installer-URL: https://github.com/Yubico/yubioath-flutter/releases/download/7.4.2/yubico-authenticator-7.4.2-win64.msi
+2026-09-10 10:30:02.495 [INFO] [Standard/Yubico.Authenticator]   Sha256-Installer: 9f252a0f2ef06c11a580bb95952ec4ebdc6f1e4d533341aee920f790f5c327f4
+2026-09-10 10:30:02.528 [INFO] [Standard/Yubico.Authenticator]   Freigabedatum: 2026-09-09
+2026-09-10 10:30:02.566 [INFO] [Standard/Yubico.Authenticator]   Unterst├╝tzte Offlineverteilung: true
+2026-09-10 10:30:02.595 [INFO] [Standard/Yubico.Authenticator] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:30:02.629 [INFO] [Standard/Yubico.YubikeyManager] Befehl: winget "list" "--id" "Yubico.YubikeyManager" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:03.433 [INFO] [Standard/Yubico.YubikeyManager] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:30:03.445 [INFO] [Standard/Yubico.YubikeyManager] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:30:03.480 [INFO] [InstalledTools/eMClient.eMClient] Befehl: winget "list" "--id" "eMClient.eMClient" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:04.329 [INFO] [InstalledTools/eMClient.eMClient] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:30:04.367 [INFO] [InstalledTools/eMClient.eMClient] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:30:04.404 [INFO] [InstalledTools/FlorianHeidenreich.Mp3tag] Befehl: winget "list" "--id" "FlorianHeidenreich.Mp3tag" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:05.268 [INFO] [InstalledTools/FlorianHeidenreich.Mp3tag] Name           ID                        Version
+2026-09-10 10:30:05.303 [INFO] [InstalledTools/FlorianHeidenreich.Mp3tag] ------------------------------------------------
+2026-09-10 10:30:05.339 [INFO] [InstalledTools/FlorianHeidenreich.Mp3tag] Mp3tag v3.36.1 FlorianHeidenreich.Mp3tag 3.36.1
+2026-09-10 10:30:05.383 [INFO] [InstalledTools/FlorianHeidenreich.Mp3tag] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:30:05.425 [ERROR] [InstalledTools/FlorianHeidenreich.Mp3tag] Verarbeitung von 'MP3tag' in Phase 'VerifyExecutable' fehlgeschlagen: Das konfigurierte Installationsziel 'C:\Tools\MP3tag' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:05.463 [ERROR] [InstalledTools/FlorianHeidenreich.Mp3tag] Typ: System.Management.Automation.RuntimeException; Fehler-ID: Das konfigurierte Installationsziel 'C:\Tools\MP3tag' fehlt. Bestehende Installationen werden nicht automatisch verschoben.; Kategorie: OperationStopped: (Das konfigurierte I…matisch verschoben.:String) [], RuntimeException; Ausnahme: System.Management.Automation.RuntimeException: Das konfigurierte Installationsziel 'C:\Tools\MP3tag' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:05.499 [ERROR] [InstalledTools/FlorianHeidenreich.Mp3tag] Position: Bei C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1:619 Zeichen:9
++         throw "Das konfigurierte Installationsziel '$Location' fehlt. …
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stack: bei Resolve-InstalledExecutable, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 619
+bei Get-ApplicationPlan, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1129
+bei Invoke-ApplicationGroups, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1356
+bei Invoke-Installation, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1413
+bei Start-ApplicationRun, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 524
+bei <ScriptBlock>, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Update-Applications.ps1: Zeile 41
+bei <ScriptBlock>, <No file>: Zeile 1
+2026-09-10 10:30:05.525 [INFO] [InstalledTools/LibreCAD.LibreCAD] Befehl: winget "list" "--id" "LibreCAD.LibreCAD" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:06.422 [INFO] [InstalledTools/LibreCAD.LibreCAD] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:30:06.518 [INFO] [InstalledTools/LibreCAD.LibreCAD] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:30:06.606 [INFO] [InstalledTools/PDFsam.PDFsam] Befehl: winget "list" "--id" "PDFsam.PDFsam" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:07.503 [INFO] [InstalledTools/PDFsam.PDFsam] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:30:07.590 [INFO] [InstalledTools/PDFsam.PDFsam] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:30:07.679 [INFO] [InstalledTools/PuTTY.PuTTY] Befehl: winget "list" "--id" "PuTTY.PuTTY" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:08.581 [INFO] [InstalledTools/PuTTY.PuTTY] Name                        ID          Version
+2026-09-10 10:30:08.610 [INFO] [InstalledTools/PuTTY.PuTTY] ------------------------------------------------
+2026-09-10 10:30:08.641 [INFO] [InstalledTools/PuTTY.PuTTY] PuTTY release 0.84 (64-bit) PuTTY.PuTTY 0.84.0.0
+2026-09-10 10:30:08.678 [INFO] [InstalledTools/PuTTY.PuTTY] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:30:08.713 [ERROR] [InstalledTools/PuTTY.PuTTY] Verarbeitung von 'PuTTY' in Phase 'VerifyExecutable' fehlgeschlagen: Das konfigurierte Installationsziel 'C:\Tools\PuTTY' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:08.750 [ERROR] [InstalledTools/PuTTY.PuTTY] Typ: System.Management.Automation.RuntimeException; Fehler-ID: Das konfigurierte Installationsziel 'C:\Tools\PuTTY' fehlt. Bestehende Installationen werden nicht automatisch verschoben.; Kategorie: OperationStopped: (Das konfigurierte I…matisch verschoben.:String) [], RuntimeException; Ausnahme: System.Management.Automation.RuntimeException: Das konfigurierte Installationsziel 'C:\Tools\PuTTY' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:08.784 [ERROR] [InstalledTools/PuTTY.PuTTY] Position: Bei C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1:619 Zeichen:9
++         throw "Das konfigurierte Installationsziel '$Location' fehlt. …
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stack: bei Resolve-InstalledExecutable, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 619
+bei Get-ApplicationPlan, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1129
+bei Invoke-ApplicationGroups, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1356
+bei Invoke-Installation, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1413
+bei Start-ApplicationRun, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 524
+bei <ScriptBlock>, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Update-Applications.ps1: Zeile 41
+bei <ScriptBlock>, <No file>: Zeile 1
+2026-09-10 10:30:08.820 [INFO] [InstalledTools/XnSoft.XnConvert] Befehl: winget "list" "--id" "XnSoft.XnConvert" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:09.688 [INFO] [InstalledTools/XnSoft.XnConvert] Name            ID               Version
+2026-09-10 10:30:09.692 [INFO] [InstalledTools/XnSoft.XnConvert] ------------------------------------------
+2026-09-10 10:30:09.765 [INFO] [InstalledTools/XnSoft.XnConvert] XnConvert (x64) XnSoft.XnConvert 1.116.0.0
+2026-09-10 10:30:09.843 [INFO] [InstalledTools/XnSoft.XnConvert] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:30:09.909 [ERROR] [InstalledTools/XnSoft.XnConvert] Verarbeitung von 'XnConvert' in Phase 'VerifyExecutable' fehlgeschlagen: Das konfigurierte Installationsziel 'C:\Tools\XnConvert' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:09.973 [ERROR] [InstalledTools/XnSoft.XnConvert] Typ: System.Management.Automation.RuntimeException; Fehler-ID: Das konfigurierte Installationsziel 'C:\Tools\XnConvert' fehlt. Bestehende Installationen werden nicht automatisch verschoben.; Kategorie: OperationStopped: (Das konfigurierte I…matisch verschoben.:String) [], RuntimeException; Ausnahme: System.Management.Automation.RuntimeException: Das konfigurierte Installationsziel 'C:\Tools\XnConvert' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:10.042 [ERROR] [InstalledTools/XnSoft.XnConvert] Position: Bei C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1:619 Zeichen:9
++         throw "Das konfigurierte Installationsziel '$Location' fehlt. …
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stack: bei Resolve-InstalledExecutable, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 619
+bei Get-ApplicationPlan, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1129
+bei Invoke-ApplicationGroups, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1356
+bei Invoke-Installation, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1413
+bei Start-ApplicationRun, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 524
+bei <ScriptBlock>, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Update-Applications.ps1: Zeile 41
+bei <ScriptBlock>, <No file>: Zeile 1
+2026-09-10 10:30:10.078 [INFO] [InstalledTools/XnSoft.XnView.Classic] Befehl: winget "list" "--id" "XnSoft.XnView.Classic" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:10.920 [INFO] [InstalledTools/XnSoft.XnView.Classic] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:30:10.987 [INFO] [InstalledTools/XnSoft.XnView.Classic] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:30:11.061 [INFO] [PortableTools/DominikReichl.KeePass] Befehl: winget "list" "--id" "DominikReichl.KeePass" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:11.926 [INFO] [PortableTools/DominikReichl.KeePass] Name                         ID                    Version
+2026-09-10 10:30:11.996 [INFO] [PortableTools/DominikReichl.KeePass] ----------------------------------------------------------
+2026-09-10 10:30:12.072 [INFO] [PortableTools/DominikReichl.KeePass] KeePass Password Safe 2.61.1 DominikReichl.KeePass 2.61.1
+2026-09-10 10:30:12.151 [INFO] [PortableTools/DominikReichl.KeePass] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:30:12.185 [ERROR] [PortableTools/DominikReichl.KeePass] Verarbeitung von 'KeePass (Deutsch)' in Phase 'VerifyExecutable' fehlgeschlagen: Das konfigurierte Installationsziel 'D:\Tools\KeePass' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:12.223 [ERROR] [PortableTools/DominikReichl.KeePass] Typ: System.Management.Automation.RuntimeException; Fehler-ID: Das konfigurierte Installationsziel 'D:\Tools\KeePass' fehlt. Bestehende Installationen werden nicht automatisch verschoben.; Kategorie: OperationStopped: (Das konfigurierte I…matisch verschoben.:String) [], RuntimeException; Ausnahme: System.Management.Automation.RuntimeException: Das konfigurierte Installationsziel 'D:\Tools\KeePass' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:12.260 [ERROR] [PortableTools/DominikReichl.KeePass] Position: Bei C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1:619 Zeichen:9
++         throw "Das konfigurierte Installationsziel '$Location' fehlt. …
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stack: bei Resolve-InstalledExecutable, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 619
+bei Get-ApplicationPlan, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1129
+bei Invoke-ApplicationGroups, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1356
+bei Invoke-Installation, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1413
+bei Start-ApplicationRun, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 524
+bei <ScriptBlock>, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Update-Applications.ps1: Zeile 41
+bei <ScriptBlock>, <No file>: Zeile 1
+2026-09-10 10:30:12.302 [INFO] [PortableTools/enzo1982.freac] Befehl: winget "list" "--id" "enzo1982.freac" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:13.189 [INFO] [PortableTools/enzo1982.freac] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:30:13.256 [INFO] [PortableTools/enzo1982.freac] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:30:13.332 [INFO] [PortableTools/KeePassXCTeam.KeePassXC] Befehl: winget "list" "--id" "KeePassXCTeam.KeePassXC" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:14.165 [INFO] [PortableTools/KeePassXCTeam.KeePassXC] Name      ID                      Version
+2026-09-10 10:30:14.186 [INFO] [PortableTools/KeePassXCTeam.KeePassXC] -----------------------------------------
+2026-09-10 10:30:14.251 [INFO] [PortableTools/KeePassXCTeam.KeePassXC] KeePassXC KeePassXCTeam.KeePassXC 2.7.12
+2026-09-10 10:30:14.320 [INFO] [PortableTools/KeePassXCTeam.KeePassXC] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:30:14.371 [ERROR] [PortableTools/KeePassXCTeam.KeePassXC] Verarbeitung von 'KeepassXC' in Phase 'VerifyExecutable' fehlgeschlagen: Das konfigurierte Installationsziel 'D:\Tools\KeepassXC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:14.407 [ERROR] [PortableTools/KeePassXCTeam.KeePassXC] Typ: System.Management.Automation.RuntimeException; Fehler-ID: Das konfigurierte Installationsziel 'D:\Tools\KeepassXC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.; Kategorie: OperationStopped: (Das konfigurierte I…matisch verschoben.:String) [], RuntimeException; Ausnahme: System.Management.Automation.RuntimeException: Das konfigurierte Installationsziel 'D:\Tools\KeepassXC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:14.439 [ERROR] [PortableTools/KeePassXCTeam.KeePassXC] Position: Bei C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1:619 Zeichen:9
++         throw "Das konfigurierte Installationsziel '$Location' fehlt. …
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stack: bei Resolve-InstalledExecutable, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 619
+bei Get-ApplicationPlan, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1129
+bei Invoke-ApplicationGroups, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1356
+bei Invoke-Installation, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1413
+bei Start-ApplicationRun, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 524
+bei <ScriptBlock>, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Update-Applications.ps1: Zeile 41
+bei <ScriptBlock>, <No file>: Zeile 1
+2026-09-10 10:30:14.475 [INFO] [PortableTools/Microsoft.Sysinternals.PsTools] Befehl: winget "list" "--id" "Microsoft.Sysinternals.PsTools" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:15.404 [INFO] [PortableTools/Microsoft.Sysinternals.PsTools] Name          ID                             Version    Verf├╝gbar
+2026-09-10 10:30:15.427 [INFO] [PortableTools/Microsoft.Sysinternals.PsTools] ------------------------------------------------------------------
+2026-09-10 10:30:15.478 [INFO] [PortableTools/Microsoft.Sysinternals.PsTools] PsTools Suite Microsoft.Sysinternals.PsTools 2023.04.11 2026-08-12
+2026-09-10 10:30:15.523 [INFO] [PortableTools/Microsoft.Sysinternals.PsTools] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:30:15.573 [ERROR] [PortableTools/Microsoft.Sysinternals.PsTools] Verarbeitung von 'PsTools' in Phase 'VerifyExecutable' fehlgeschlagen: Das konfigurierte Installationsziel 'D:\Tools\PsTools' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:15.625 [ERROR] [PortableTools/Microsoft.Sysinternals.PsTools] Typ: System.Management.Automation.RuntimeException; Fehler-ID: Das konfigurierte Installationsziel 'D:\Tools\PsTools' fehlt. Bestehende Installationen werden nicht automatisch verschoben.; Kategorie: OperationStopped: (Das konfigurierte I…matisch verschoben.:String) [], RuntimeException; Ausnahme: System.Management.Automation.RuntimeException: Das konfigurierte Installationsziel 'D:\Tools\PsTools' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:15.664 [ERROR] [PortableTools/Microsoft.Sysinternals.PsTools] Position: Bei C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1:619 Zeichen:9
++         throw "Das konfigurierte Installationsziel '$Location' fehlt. …
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stack: bei Resolve-InstalledExecutable, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 619
+bei Get-ApplicationPlan, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1129
+bei Invoke-ApplicationGroups, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1356
+bei Invoke-Installation, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1413
+bei Start-ApplicationRun, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 524
+bei <ScriptBlock>, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Update-Applications.ps1: Zeile 41
+bei <ScriptBlock>, <No file>: Zeile 1
+2026-09-10 10:30:15.693 [INFO] [PortableTools/MPC-BE.MPC-BE] Befehl: winget "list" "--id" "MPC-BE.MPC-BE" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:16.694 [INFO] [PortableTools/MPC-BE.MPC-BE] Name             ID            Version Verf├╝gbar
+2026-09-10 10:30:16.700 [INFO] [PortableTools/MPC-BE.MPC-BE] ------------------------------------------------
+2026-09-10 10:30:16.781 [INFO] [PortableTools/MPC-BE.MPC-BE] MPC-BE x64 1.9.0 MPC-BE.MPC-BE 1.9.0   1.9.1
+2026-09-10 10:30:16.868 [INFO] [PortableTools/MPC-BE.MPC-BE] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:30:16.957 [ERROR] [PortableTools/MPC-BE.MPC-BE] Verarbeitung von 'MPC-BE' in Phase 'VerifyExecutable' fehlgeschlagen: Das konfigurierte Installationsziel 'D:\Tools\MPC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:17.027 [ERROR] [PortableTools/MPC-BE.MPC-BE] Typ: System.Management.Automation.RuntimeException; Fehler-ID: Das konfigurierte Installationsziel 'D:\Tools\MPC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.; Kategorie: OperationStopped: (Das konfigurierte I…matisch verschoben.:String) [], RuntimeException; Ausnahme: System.Management.Automation.RuntimeException: Das konfigurierte Installationsziel 'D:\Tools\MPC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:17.093 [ERROR] [PortableTools/MPC-BE.MPC-BE] Position: Bei C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1:619 Zeichen:9
++         throw "Das konfigurierte Installationsziel '$Location' fehlt. …
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stack: bei Resolve-InstalledExecutable, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 619
+bei Get-ApplicationPlan, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1129
+bei Invoke-ApplicationGroups, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1356
+bei Invoke-Installation, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1413
+bei Start-ApplicationRun, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 524
+bei <ScriptBlock>, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Update-Applications.ps1: Zeile 41
+bei <ScriptBlock>, <No file>: Zeile 1
+2026-09-10 10:30:17.142 [INFO] [PortableTools/Rufus.Rufus] Befehl: winget "list" "--id" "Rufus.Rufus" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:18.281 [INFO] [PortableTools/Rufus.Rufus] Name  ID          Version
+2026-09-10 10:30:18.349 [INFO] [PortableTools/Rufus.Rufus] -------------------------
+2026-09-10 10:30:18.430 [INFO] [PortableTools/Rufus.Rufus] Rufus Rufus.Rufus 4.15
+2026-09-10 10:30:18.492 [INFO] [PortableTools/Rufus.Rufus] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:30:18.551 [ERROR] [PortableTools/Rufus.Rufus] Verarbeitung von 'Rufus' in Phase 'VerifyExecutable' fehlgeschlagen: Das konfigurierte Installationsziel 'D:\Tools\Rufus' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:18.620 [ERROR] [PortableTools/Rufus.Rufus] Typ: System.Management.Automation.RuntimeException; Fehler-ID: Das konfigurierte Installationsziel 'D:\Tools\Rufus' fehlt. Bestehende Installationen werden nicht automatisch verschoben.; Kategorie: OperationStopped: (Das konfigurierte I…matisch verschoben.:String) [], RuntimeException; Ausnahme: System.Management.Automation.RuntimeException: Das konfigurierte Installationsziel 'D:\Tools\Rufus' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:18.667 [ERROR] [PortableTools/Rufus.Rufus] Position: Bei C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1:619 Zeichen:9
++         throw "Das konfigurierte Installationsziel '$Location' fehlt. …
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stack: bei Resolve-InstalledExecutable, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 619
+bei Get-ApplicationPlan, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1129
+bei Invoke-ApplicationGroups, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1356
+bei Invoke-Installation, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1413
+bei Start-ApplicationRun, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 524
+bei <ScriptBlock>, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Update-Applications.ps1: Zeile 41
+bei <ScriptBlock>, <No file>: Zeile 1
+2026-09-10 10:30:18.690 [INFO] [PortableTools/TheDocumentFoundation.LibreOffice] Befehl: winget "list" "--id" "TheDocumentFoundation.LibreOffice" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:19.677 [INFO] [PortableTools/TheDocumentFoundation.LibreOffice] Es wurde kein installiertes Paket gefunden, das den Eingabekriterien entspricht.
+2026-09-10 10:30:19.749 [INFO] [PortableTools/TheDocumentFoundation.LibreOffice] winget wurde mit Exitcode -1978335212 (0x8A150014) beendet.
+2026-09-10 10:30:19.817 [INFO] [PortableTools/VideoLAN.VLC] Befehl: winget "list" "--id" "VideoLAN.VLC" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:20.751 [INFO] [PortableTools/VideoLAN.VLC] Name             ID           Version
+2026-09-10 10:30:20.755 [INFO] [PortableTools/VideoLAN.VLC] -------------------------------------
+2026-09-10 10:30:20.822 [INFO] [PortableTools/VideoLAN.VLC] VLC media player VideoLAN.VLC 3.0.23
+2026-09-10 10:30:20.876 [INFO] [PortableTools/VideoLAN.VLC] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:30:20.907 [ERROR] [PortableTools/VideoLAN.VLC] Verarbeitung von 'VLC' in Phase 'VerifyExecutable' fehlgeschlagen: Das konfigurierte Installationsziel 'D:\Tools\VLC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:20.934 [ERROR] [PortableTools/VideoLAN.VLC] Typ: System.Management.Automation.RuntimeException; Fehler-ID: Das konfigurierte Installationsziel 'D:\Tools\VLC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.; Kategorie: OperationStopped: (Das konfigurierte I…matisch verschoben.:String) [], RuntimeException; Ausnahme: System.Management.Automation.RuntimeException: Das konfigurierte Installationsziel 'D:\Tools\VLC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:20.962 [ERROR] [PortableTools/VideoLAN.VLC] Position: Bei C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1:619 Zeichen:9
++         throw "Das konfigurierte Installationsziel '$Location' fehlt. …
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stack: bei Resolve-InstalledExecutable, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 619
+bei Get-ApplicationPlan, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1129
+bei Invoke-ApplicationGroups, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1356
+bei Invoke-Installation, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1413
+bei Start-ApplicationRun, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 524
+bei <ScriptBlock>, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Update-Applications.ps1: Zeile 41
+bei <ScriptBlock>, <No file>: Zeile 1
+2026-09-10 10:30:20.986 [INFO] [PortableTools/WinSCP.WinSCP] Befehl: winget "list" "--id" "WinSCP.WinSCP" "--exact" "--source" "winget" "--accept-source-agreements" "--disable-interactivity"
+2026-09-10 10:30:22.414 [INFO] [PortableTools/WinSCP.WinSCP] Name         ID            Version
+2026-09-10 10:30:22.472 [INFO] [PortableTools/WinSCP.WinSCP] ----------------------------------
+2026-09-10 10:30:22.535 [INFO] [PortableTools/WinSCP.WinSCP] WinSCP 6.5.6 WinSCP.WinSCP 6.5.6
+2026-09-10 10:30:22.594 [INFO] [PortableTools/WinSCP.WinSCP] winget wurde mit Exitcode 0 (0x00000000) beendet.
+2026-09-10 10:30:22.652 [ERROR] [PortableTools/WinSCP.WinSCP] Verarbeitung von 'WinSCP' in Phase 'VerifyExecutable' fehlgeschlagen: Das konfigurierte Installationsziel 'D:\Tools\WinSCP' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:22.698 [ERROR] [PortableTools/WinSCP.WinSCP] Typ: System.Management.Automation.RuntimeException; Fehler-ID: Das konfigurierte Installationsziel 'D:\Tools\WinSCP' fehlt. Bestehende Installationen werden nicht automatisch verschoben.; Kategorie: OperationStopped: (Das konfigurierte I…matisch verschoben.:String) [], RuntimeException; Ausnahme: System.Management.Automation.RuntimeException: Das konfigurierte Installationsziel 'D:\Tools\WinSCP' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:22.747 [ERROR] [PortableTools/WinSCP.WinSCP] Position: Bei C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1:619 Zeichen:9
++         throw "Das konfigurierte Installationsziel '$Location' fehlt. …
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stack: bei Resolve-InstalledExecutable, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 619
+bei Get-ApplicationPlan, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1129
+bei Invoke-ApplicationGroups, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1356
+bei Invoke-Installation, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 1413
+bei Start-ApplicationRun, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Application-Management.ps1: Zeile 524
+bei <ScriptBlock>, C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Update-Applications.ps1: Zeile 41
+bei <ScriptBlock>, <No file>: Zeile 1
+2026-09-10 10:30:22.773 [INFO] [Preview] Vollständige Vorschau – vor jeglicher Paketänderung:
+2026-09-10 10:30:22.825 [INFO] [Preview] 
+Id                                      InstalledVersion TargetVersion Action       Status  Location
+--                                      ---------------- ------------- ------       ------  --------
+Adobe.Acrobat.Reader.64-bit                                            NotInstalled Planned 
+Canva.Affinity                                                         NotInstalled Planned 
+Celsys.ClipStudioPaint                                                 NotInstalled Planned 
+dotPDN.PaintDotNet                      5.1.12           5.1.12        NoUpdate     Planned 
+EPSON.EpsonScan2                                                       Error        Failed  
+EPSON.SoftwareUpdater                   5.0.1            5.0.1.0       NoUpdate     Planned 
+GIMP.GIMP                               3.2.4.0          3.2.4         NoUpdate     Planned 
+Governikus.AusweisApp                                                  NotInstalled Planned 
+Logitech.OptionsPlus                    2.7.961922       2.7.961922    NoUpdate     Planned 
+Microsoft.PowerShell                                                   NotInstalled Planned 
+Microsoft.PowerToys                     0.100.2          0.101.2362.0  Update       Planned 
+Microsoft.WSL                           2.7.11.0         2.7.13        Update       Planned 
+Mozilla.Firefox.de                      155.0.1          155.0.1       NoUpdate     Planned 
+Mozilla.Thunderbird.de                                                 NotInstalled Planned 
+Obsidian.Obsidian                       1.13.4           1.13.7        Update       Planned 
+RARLab.WinRAR                           7.23.0           7.23.0        NoUpdate     Planned 
+RaspberryPiFoundation.RaspberryPiImager v2.0.8           2.0.8         NoUpdate     Planned 
+REINERSCT.cyberJackDriverPackage                                       NotInstalled Planned 
+Yubico.Authenticator                    7.4.2            7.4.2         NoUpdate     Planned 
+Yubico.YubikeyManager                                                  NotInstalled Planned 
+eMClient.eMClient                                                      NotInstalled Planned C:\Tools\eMClient
+FlorianHeidenreich.Mp3tag               3.36.1                         Error        Failed  C:\Tools\MP3tag
+LibreCAD.LibreCAD                                                      NotInstalled Planned C:\Tools\LibreCAD
+PDFsam.PDFsam                                                          NotInstalled Planned C:\Tools\pdfSAM
+PuTTY.PuTTY                             0.84.0.0                       Error        Failed  C:\Tools\PuTTY
+XnSoft.XnConvert                        1.116.0.0                      Error        Failed  C:\Tools\XnConvert
+XnSoft.XnView.Classic                                                  NotInstalled Planned C:\Tools\XnView
+DominikReichl.KeePass                   2.61.1                         Error        Failed  D:\Tools\KeePass
+enzo1982.freac                                                         NotInstalled Planned D:\Tools\FreAC
+KeePassXCTeam.KeePassXC                 2.7.12                         Error        Failed  D:\Tools\KeepassXC
+Microsoft.Sysinternals.PsTools          2023.04.11                     Error        Failed  D:\Tools\PsTools
+MPC-BE.MPC-BE                           1.9.0                          Error        Failed  D:\Tools\MPC
+Rufus.Rufus                             4.15                           Error        Failed  D:\Tools\Rufus
+TheDocumentFoundation.LibreOffice                                      NotInstalled Planned D:\Tools\LibreOffice
+VideoLAN.VLC                            3.0.23                         Error        Failed  D:\Tools\VLC
+WinSCP.WinSCP                           6.5.6                          Error        Failed  D:\Tools\WinSCP
+
+
+2026-09-10 10:30:22.875 [INFO] [Preview] 
+Id              : Adobe.Acrobat.Reader.64-bit
+Source          : winget
+InstallerType   : 
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:22.898 [INFO] [Preview] 
+Id              : Canva.Affinity
+Source          : winget
+InstallerType   : msix
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:22.917 [INFO] [Preview] 
+Id              : Celsys.ClipStudioPaint
+Source          : winget
+InstallerType   : exe
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:22.941 [INFO] [Preview] 
+Id              : dotPDN.PaintDotNet
+Source          : winget
+InstallerType   : wix
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:22.963 [INFO] [Preview] 
+Id              : EPSON.EpsonScan2
+Source          : winget
+InstallerType   : 
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Unbekannte/mehrdeutige Version oder unerwartete winget-Tabellenspalten für 'EPSON.EpsonScan2'.
+2026-09-10 10:30:22.988 [INFO] [Preview] 
+Id              : EPSON.SoftwareUpdater
+Source          : winget
+InstallerType   : msi
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.019 [INFO] [Preview] 
+Id              : GIMP.GIMP
+Source          : winget
+InstallerType   : inno
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.042 [INFO] [Preview] 
+Id              : Governikus.AusweisApp
+Source          : winget
+InstallerType   : 
+Scope           : 
+Architecture    : 
+Locale          : de-DE
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.064 [INFO] [Preview] 
+Id              : Logitech.OptionsPlus
+Source          : winget
+InstallerType   : exe
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.094 [INFO] [Preview] 
+Id              : Microsoft.PowerShell
+Source          : winget
+InstallerType   : 
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.121 [INFO] [Preview] 
+Id              : Microsoft.PowerToys
+Source          : winget
+InstallerType   : burn
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.144 [INFO] [Preview] 
+Id              : Microsoft.WSL
+Source          : winget
+InstallerType   : msix
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.174 [INFO] [Preview] 
+Id              : Mozilla.Firefox.de
+Source          : winget
+InstallerType   : nullsoft
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.212 [INFO] [Preview] 
+Id              : Mozilla.Thunderbird.de
+Source          : winget
+InstallerType   : 
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.247 [INFO] [Preview] 
+Id              : Obsidian.Obsidian
+Source          : winget
+InstallerType   : nullsoft
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.281 [INFO] [Preview] 
+Id              : RARLab.WinRAR
+Source          : winget
+InstallerType   : exe
+Scope           : 
+Architecture    : 
+Locale          : de
+CustomArguments : 
+LocalConfig     : None
+Message         : Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.317 [INFO] [Preview] 
+Id              : RaspberryPiFoundation.RaspberryPiImager
+Source          : winget
+InstallerType   : inno
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.352 [INFO] [Preview] 
+Id              : REINERSCT.cyberJackDriverPackage
+Source          : winget
+InstallerType   : 
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.380 [INFO] [Preview] 
+Id              : Yubico.Authenticator
+Source          : winget
+InstallerType   : wix
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.404 [INFO] [Preview] 
+Id              : Yubico.YubikeyManager
+Source          : winget
+InstallerType   : 
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.429 [INFO] [Preview] 
+Id              : eMClient.eMClient
+Source          : winget
+InstallerType   : wix
+Scope           : machine
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.453 [INFO] [Preview] 
+Id              : FlorianHeidenreich.Mp3tag
+Source          : winget
+InstallerType   : 
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Das konfigurierte Installationsziel 'C:\Tools\MP3tag' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:23.478 [INFO] [Preview] 
+Id              : LibreCAD.LibreCAD
+Source          : winget
+InstallerType   : nullsoft
+Scope           : machine
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.503 [INFO] [Preview] 
+Id              : PDFsam.PDFsam
+Source          : winget
+InstallerType   : wix
+Scope           : machine
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.522 [INFO] [Preview] 
+Id              : PuTTY.PuTTY
+Source          : winget
+InstallerType   : wix
+Scope           : machine
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Das konfigurierte Installationsziel 'C:\Tools\PuTTY' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:23.546 [INFO] [Preview] 
+Id              : XnSoft.XnConvert
+Source          : winget
+InstallerType   : 
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Das konfigurierte Installationsziel 'C:\Tools\XnConvert' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:23.565 [INFO] [Preview] 
+Id              : XnSoft.XnView.Classic
+Source          : winget
+InstallerType   : 
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.586 [INFO] [Preview] 
+Id              : DominikReichl.KeePass
+Source          : winget
+InstallerType   : inno
+Scope           : machine
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : KeePassGerman
+Message         : Das konfigurierte Installationsziel 'D:\Tools\KeePass' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:23.609 [INFO] [Preview] 
+Id              : enzo1982.freac
+Source          : winget
+InstallerType   : portable
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.634 [INFO] [Preview] 
+Id              : KeePassXCTeam.KeePassXC
+Source          : winget
+InstallerType   : wix
+Scope           : machine
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : KeePassXC
+Message         : Das konfigurierte Installationsziel 'D:\Tools\KeepassXC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:23.656 [INFO] [Preview] 
+Id              : Microsoft.Sysinternals.PsTools
+Source          : winget
+InstallerType   : portable
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : None
+Message         : Das konfigurierte Installationsziel 'D:\Tools\PsTools' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:23.680 [INFO] [Preview] 
+Id              : MPC-BE.MPC-BE
+Source          : winget
+InstallerType   : 
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : /LANG=de
+LocalConfig     : MPC-BE
+Message         : Das konfigurierte Installationsziel 'D:\Tools\MPC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:23.704 [INFO] [Preview] 
+Id              : Rufus.Rufus
+Source          : winget
+InstallerType   : portable
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : Rufus
+Message         : Das konfigurierte Installationsziel 'D:\Tools\Rufus' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:23.731 [INFO] [Preview] 
+Id              : TheDocumentFoundation.LibreOffice
+Source          : winget
+InstallerType   : msi
+Scope           : machine
+Architecture    : 
+Locale          : 
+CustomArguments : UI_LANGS=de
+LocalConfig     : LibreOffice
+Message         : Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.759 [INFO] [Preview] 
+Id              : VideoLAN.VLC
+Source          : winget
+InstallerType   : portable
+Scope           : 
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : VLC
+Message         : Das konfigurierte Installationsziel 'D:\Tools\VLC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:23.791 [INFO] [Preview] 
+Id              : WinSCP.WinSCP
+Source          : winget
+InstallerType   : wix
+Scope           : machine
+Architecture    : 
+Locale          : 
+CustomArguments : 
+LocalConfig     : WinSCP
+Message         : Das konfigurierte Installationsziel 'D:\Tools\WinSCP' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:23.817 [INFO] [Summary] Adobe.Acrobat.Reader.64-bit: CheckOnly; Phase=Preflight; Exitcode=; Dauer=0.81s; Ziel=''; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.842 [INFO] [Summary] Canva.Affinity: CheckOnly; Phase=Preflight; Exitcode=; Dauer=0.94s; Ziel=''; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.865 [INFO] [Summary] Celsys.ClipStudioPaint: CheckOnly; Phase=Preflight; Exitcode=; Dauer=0.81s; Ziel=''; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.877 [INFO] [Summary] dotPDN.PaintDotNet: CheckOnly; Phase=Preflight; Exitcode=; Dauer=2.74s; Ziel=''; Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.900 [INFO] [Summary] EPSON.EpsonScan2: Failed; Phase=Discovery; Exitcode=; Dauer=1.07s; Ziel=''; Unbekannte/mehrdeutige Version oder unerwartete winget-Tabellenspalten für 'EPSON.EpsonScan2'.
+2026-09-10 10:30:23.927 [INFO] [Summary] EPSON.SoftwareUpdater: CheckOnly; Phase=Preflight; Exitcode=; Dauer=2.11s; Ziel=''; Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.948 [INFO] [Summary] GIMP.GIMP: CheckOnly; Phase=Preflight; Exitcode=; Dauer=2.54s; Ziel=''; Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:23.957 [INFO] [Summary] Governikus.AusweisApp: CheckOnly; Phase=Preflight; Exitcode=; Dauer=0.9s; Ziel=''; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:23.986 [INFO] [Summary] Logitech.OptionsPlus: CheckOnly; Phase=Preflight; Exitcode=; Dauer=2.9s; Ziel=''; Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:24.015 [INFO] [Summary] Microsoft.PowerShell: CheckOnly; Phase=Preflight; Exitcode=; Dauer=0.86s; Ziel=''; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:24.047 [INFO] [Summary] Microsoft.PowerToys: CheckOnly; Phase=Preflight; Exitcode=; Dauer=3.85s; Ziel=''; Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:24.086 [INFO] [Summary] Microsoft.WSL: CheckOnly; Phase=Preflight; Exitcode=; Dauer=2.55s; Ziel=''; Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:24.116 [INFO] [Summary] Mozilla.Firefox.de: CheckOnly; Phase=Preflight; Exitcode=; Dauer=2.62s; Ziel=''; Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:24.152 [INFO] [Summary] Mozilla.Thunderbird.de: CheckOnly; Phase=Preflight; Exitcode=; Dauer=0.86s; Ziel=''; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:24.189 [INFO] [Summary] Obsidian.Obsidian: CheckOnly; Phase=Preflight; Exitcode=; Dauer=3s; Ziel=''; Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:24.224 [INFO] [Summary] RARLab.WinRAR: CheckOnly; Phase=Preflight; Exitcode=; Dauer=3.82s; Ziel=''; Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:24.264 [INFO] [Summary] RaspberryPiFoundation.RaspberryPiImager: CheckOnly; Phase=Preflight; Exitcode=; Dauer=3.69s; Ziel=''; Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:24.294 [INFO] [Summary] REINERSCT.cyberJackDriverPackage: CheckOnly; Phase=Preflight; Exitcode=; Dauer=0.86s; Ziel=''; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:24.331 [INFO] [Summary] Yubico.Authenticator: CheckOnly; Phase=Preflight; Exitcode=; Dauer=2.49s; Ziel=''; Lesende Prüfung erfolgreich; keine Installation/Installer-Ausführung getestet.
+2026-09-10 10:30:24.367 [INFO] [Summary] Yubico.YubikeyManager: CheckOnly; Phase=Preflight; Exitcode=; Dauer=0.85s; Ziel=''; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:24.402 [INFO] [Summary] eMClient.eMClient: CheckOnly; Phase=Preflight; Exitcode=; Dauer=0.92s; Ziel='C:\Tools\eMClient'; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:24.446 [INFO] [Summary] FlorianHeidenreich.Mp3tag: Failed; Phase=VerifyExecutable; Exitcode=; Dauer=1.12s; Ziel='C:\Tools\MP3tag'; Das konfigurierte Installationsziel 'C:\Tools\MP3tag' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:24.482 [INFO] [Summary] LibreCAD.LibreCAD: CheckOnly; Phase=Preflight; Exitcode=; Dauer=1.08s; Ziel='C:\Tools\LibreCAD'; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:24.518 [INFO] [Summary] PDFsam.PDFsam: CheckOnly; Phase=Preflight; Exitcode=; Dauer=1.07s; Ziel='C:\Tools\pdfSAM'; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:24.557 [INFO] [Summary] PuTTY.PuTTY: Failed; Phase=VerifyExecutable; Exitcode=; Dauer=1.14s; Ziel='C:\Tools\PuTTY'; Das konfigurierte Installationsziel 'C:\Tools\PuTTY' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:24.591 [INFO] [Summary] XnSoft.XnConvert: Failed; Phase=VerifyExecutable; Exitcode=; Dauer=1.26s; Ziel='C:\Tools\XnConvert'; Das konfigurierte Installationsziel 'C:\Tools\XnConvert' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:24.622 [INFO] [Summary] XnSoft.XnView.Classic: CheckOnly; Phase=Preflight; Exitcode=; Dauer=0.98s; Ziel='C:\Tools\XnView'; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:24.659 [INFO] [Summary] DominikReichl.KeePass: Failed; Phase=VerifyExecutable; Exitcode=; Dauer=1.24s; Ziel='D:\Tools\KeePass'; Das konfigurierte Installationsziel 'D:\Tools\KeePass' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:24.698 [INFO] [Summary] enzo1982.freac: CheckOnly; Phase=Preflight; Exitcode=; Dauer=1.03s; Ziel='D:\Tools\FreAC'; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:24.732 [INFO] [Summary] KeePassXCTeam.KeePassXC: Failed; Phase=VerifyExecutable; Exitcode=; Dauer=1.14s; Ziel='D:\Tools\KeepassXC'; Das konfigurierte Installationsziel 'D:\Tools\KeepassXC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:24.765 [INFO] [Summary] Microsoft.Sysinternals.PsTools: Failed; Phase=VerifyExecutable; Exitcode=; Dauer=1.22s; Ziel='D:\Tools\PsTools'; Das konfigurierte Installationsziel 'D:\Tools\PsTools' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:24.801 [INFO] [Summary] MPC-BE.MPC-BE: Failed; Phase=VerifyExecutable; Exitcode=; Dauer=1.45s; Ziel='D:\Tools\MPC'; Das konfigurierte Installationsziel 'D:\Tools\MPC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:24.842 [INFO] [Summary] Rufus.Rufus: Failed; Phase=VerifyExecutable; Exitcode=; Dauer=1.55s; Ziel='D:\Tools\Rufus'; Das konfigurierte Installationsziel 'D:\Tools\Rufus' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:24.881 [INFO] [Summary] TheDocumentFoundation.LibreOffice: CheckOnly; Phase=Preflight; Exitcode=; Dauer=1.13s; Ziel='D:\Tools\LibreOffice'; Nicht installiert; kein Update und keine Ziel-/Konfigurationsänderung vorgesehen.
+2026-09-10 10:30:24.912 [INFO] [Summary] VideoLAN.VLC: Failed; Phase=VerifyExecutable; Exitcode=; Dauer=1.17s; Ziel='D:\Tools\VLC'; Das konfigurierte Installationsziel 'D:\Tools\VLC' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:24.941 [INFO] [Summary] WinSCP.WinSCP: Failed; Phase=VerifyExecutable; Exitcode=; Dauer=1.79s; Ziel='D:\Tools\WinSCP'; Das konfigurierte Installationsziel 'D:\Tools\WinSCP' fehlt. Bestehende Installationen werden nicht automatisch verschoben.
+2026-09-10 10:30:24.973 [INFO] [Summary] Ergebnis (Update; CheckOnly=True): CheckOnly=25, Failed=11.
+2026-09-10 10:30:25.009 [INFO] [Summary] Ergebnisliste: C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Logs\Update-Applications-20260910-102923-098-35916.csv
+2026-09-10 10:30:25.035 [INFO] [End] Vollständige Logdatei: C:\Users\BoettcherA\GitLab\copilot-worktrees\Powershell\boettchera-laughing-journey\Winget\Logs\Update-Applications-20260910-102923-098-35916.log
