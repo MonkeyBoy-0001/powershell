@@ -1,2 +1,2 @@
-# powershell
-Mein Repo für meine PS1 Skripte
+# Powershell. mein Repository für alles!
+
